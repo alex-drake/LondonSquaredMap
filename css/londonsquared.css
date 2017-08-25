@@ -1,0 +1,11 @@
+/* Import Fonts */
+@import url('https://fonts.googleapis.com/css?family=Montserrat:300');
+
+body {
+  font-family: 'Montserrat', sans-serif !important;
+ }
+
+.smallFont {
+	font-size: 0.58vw;
+	overflow-y: scroll;
+}

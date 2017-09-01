@@ -10,11 +10,11 @@
     <!-- Font Awesome -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <!-- Bootstrap core CSS -->
-    <link href="https://raw.githubusercontent.com/EOS-IAT/LondonSquaredMap/master/css/bootstrap.css" rel="stylesheet">
+    <link href="css/bootstrap.css" rel="stylesheet">
     <!-- Material Design Bootstrap -->
-    <link href="https://raw.githubusercontent.com/EOS-IAT/LondonSquaredMap/master/css/mdb.css" rel="stylesheet">
+    <link href="css/mdb.css" rel="stylesheet">
 	<!-- LS CSS -->
-	<link href="https://raw.githubusercontent.com/EOS-IAT/LondonSquaredMap/master/css/londonsquared.css" rel="stylesheet" type="text/css">
+	<link href="css/londonsquared.css" rel="stylesheet" type="text/css">
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 		<script src="http://d3js.org/d3.v3.min.js"></script>
 
@@ -48,3 +48,51 @@
 </nav>
 	<!--/. Navbar -->
 	
+<hr class="extra-margins">
+	
+	<div class="row" align="center">
+    <div class="col-12">Description</div>
+  </div>
+  
+  <hr class="extra-margins">
+  
+	<div class="row" align="center">
+    <div class="col-md-6">Map<div id="canvasDiv"></div></div>
+    <div class="col-md-6">Chart
+                                                <div style="float: left; padding-top: 50px">
+                                                            <form action="">
+                                                                        <input type="radio" onclick="bubbleChart()" checked="checked" name="dataToggle">Bubble Chart<br>
+                                                                        <input type="radio" onclick="choropleth()" name="dataToggle">Choropleth 1<br>
+                                                                        <!-- <input type="radio" onclick="choropleth2()" name="dataToggle">Choropleth 2<br>
+                                                                        <input type="radio" onclick="histogram()" name="dataToggle">Histogram<br>
+                                                                        <input type="radio" onclick="lineGraph()" name="dataToggle">Line Graph<br> -->
+                                                                        <div id="bilbo"></div>
+                                                            </form>
+                                                </div>
+                                    </div>
+									</div>
+									
+	<hr class="extra-margins">
+	
+	<!-- SCRIPTS -->
+      <!-- JQuery -->
+      <script type="text/javascript" src="js/jquery-3.1.1.min.js"></script>
+      <!-- Bootstrap tooltips -->
+      <script type="text/javascript" src="js/tether.min.js"></script>
+      <!-- Bootstrap core JavaScript -->
+      <script type="text/javascript" src="js/bootstrap.min.js"></script>
+      <!-- MDB core JavaScript -->
+      <script type="text/javascript" src="js/mdb.min.js"></script>
+	
+	<!--<script src="londonSquared2.js"></script> -->
+	 
+	 <script type="text/javascript" src="https://raw.githubusercontent.com/EOS-IAT/LondonSquaredMap/master/londonSquared2.js"></script>
+	  
+	<!--<script src="choropleth2.js"></script> -->
+	
+	<script type="text/javascript" src="https://raw.githubusercontent.com/EOS-IAT/LondonSquaredMap/master/choropleth2.js"></script>
+	
+	<!--/. SCRIPTS -->
+	
+</body>
+</html>

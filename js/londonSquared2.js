@@ -204,8 +204,8 @@
 					  .attr("x", function(d){for(z=0;z<boroughCoordinates.length; z++){
 													
 													if(d.abbreviation==boroughCoordinates[z].borough.replace(/'/g, "")){
-														
-														return (boroughCoordinates[z].xCoord+55-buffer)
+														var thisWidth = this.getComputedTextLength()
+														return (boroughCoordinates[z].xCoord+70-(buffer+thisWidth))
 													}
 													}
 													})

@@ -23,55 +23,59 @@
 <body>
 
 	<!-- Navbar -->
-<nav class="navbar navbar-expand-lg navbar-dark indigo">
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01"
-        aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-		 <a class="navbar-brand" href="#">London Squared</a>
-		 
-    <div class="collapse navbar-collapse" id="navbarTogglerDemo01">
-        <ul class="navbar-nav mr-auto mt-lg-0">
-            <li class="nav-item active">
-                <a class="nav-link" href="#">Data Source 1</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="#">Data Source 2</a>
-            </li>
-			            <li class="nav-item">
-                <a class="nav-link" href="#">Data Source 3</a>
-            </li>
-			            <li class="nav-item">
-                <a class="nav-link" href="#">Data Source 4</a>
-            </li>
-        </ul>
-    </div>
-</nav>
+	<nav class="navbar navbar-expand-lg navbar-dark indigo">
+		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01"
+			aria-expanded="false" aria-label="Toggle navigation">
+			<span class="navbar-toggler-icon"></span>
+			 <a class="navbar-brand" href="#">London Squared</a>
+			 
+		<div class="collapse navbar-collapse" id="navbarTogglerDemo01">
+			<ul class="navbar-nav mr-auto mt-lg-0">
+				<li class="nav-item active">
+					<a class="nav-link" href="#">Data Source 1</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" href="#">Data Source 2</a>
+				</li>
+							<li class="nav-item">
+					<a class="nav-link" href="#">Data Source 3</a>
+				</li>
+							<li class="nav-item">
+					<a class="nav-link" href="#">Data Source 4</a>
+				</li>
+			</ul>
+		</div>
+	</nav>
 	<!--/. Navbar -->
 	
-<hr class="extra-margins">
+	<hr class="extra-margins">
 	
 	<div class="row" align="center">
-    <div class="col-12">Description</div>
-  </div>
+		<div class="col-12">Description</div>
+	</div>
   
-  <hr class="extra-margins">
+	<hr class="extra-margins">
   
 	<div class="row" align="center">
-    <div class="col-md-6">Map<div id="canvasDiv"></div></div>
-    <div class="col-md-6">Chart
-                                                <div style="float: left; padding-top: 50px">
-                                                            <form action="">
-                                                                        <input type="radio" onclick="bubbleChart()" checked="checked" name="dataToggle">Bubble Chart<br>
-                                                                        <input type="radio" onclick="choropleth()" name="dataToggle">Choropleth 1<br>
-                                                                        <!-- <input type="radio" onclick="choropleth2()" name="dataToggle">Choropleth 2<br>
-                                                                        <input type="radio" onclick="histogram()" name="dataToggle">Histogram<br>
-                                                                        <input type="radio" onclick="lineGraph()" name="dataToggle">Line Graph<br> -->
-                                                                        <div id="bilbo"></div>
-                                                            </form>
-                                                </div>
-                                    </div>
-									</div>
-									
+		<div class="col-md-6">Map<div id="canvasDiv"></div></div>
+		<div class="col-md-6">Chart
+		<div class="row">
+		
+			<div style="float: left; padding-top: 50px">
+				<form action="">
+					<input type="radio" onclick="bubbleChart()" checked="checked" name="dataToggle">Bubble Chart<br>
+					<input type="radio" onclick="choropleth()" name="dataToggle">Choropleth 1<br>
+
+				</form>
+
+			</div>
+		</div>
+		<div class="row">
+			<div id="bilbo"></div>
+		</div>
+		</div>
+	</div>
+
 	<hr class="extra-margins">
 	
 	<!-- SCRIPTS -->

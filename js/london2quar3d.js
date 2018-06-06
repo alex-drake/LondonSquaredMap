@@ -41,7 +41,7 @@ function handleData(error, dataIn) {
 	var measureList = d3.select("#kpiList")
 				.append("select")
 				.attr("id","kpis")
-				.attr("multiple",true)
+				//.attr("multiple",true)
 				.attr("size",2)
 				.selectAll("option")
 				.data(d3.map(measures, function(d) { return d.key;}).keys()).enter()
@@ -64,6 +64,7 @@ function handleData(error, dataIn) {
 	});
 }
 
+// change function - change data based on selected filter
 function changeKPI(data, kpiSel){
 	kpiSel = kpiSel;
 	dataFiltered = data.filter(function(g) { return g.measure == kpiSel; });
@@ -145,7 +146,6 @@ function mapSquared(data, div){
 		for(j=0; j<gridCoordinates[i].length; j++){
 			if(typeof gridCoordinates[i][j]=="string"){
 
-
 					boroughCoordinates.push({borough:"'"+gridCoordinates[i][j]+"'", xCoord:+xCoordinate,yCoord:+yCoordinate});
 			}
 			xCoordinate+=gridSize+buffer;
@@ -154,7 +154,7 @@ function mapSquared(data, div){
 	xCoordinate=buffer;
 	}
 
-		//TOOL TIP____________________________________________________________________ -->
+		// TOOL TIP
 		var tooltip=d3.select("body").append("div")
 						.style("position","absolute")
 						.style("padding","0px")
@@ -177,10 +177,6 @@ function mapSquared(data, div){
 			radiusScale=d3.scale.linear()
 							.domain([0, max])
 							.range([0, (gridSize/1.75)]);
-
-			colorScale=d3.scale.linear()
-						.domain([0,max])
-						.range(["yellow","red"]);
 
 			// create river sections grid/boxes
 			for (i=0; i<boroughCoordinates.length; i++){
@@ -246,7 +242,8 @@ function mapSquared(data, div){
 														}
 														}
 														})
-							.attr("fill", "url(#grad)");
+							.attr("fill", "url(#grad)")
+							.attr("opacity", ".66");
 
 			// label with borough names
 			var labels=canvas.selectAll("tspan")
@@ -341,7 +338,9 @@ function mapSquared(data, div){
 				.style("top", "-100px")
 		})
 
-		grids.on("click", function(d){
+		// to create: monthly chart of performance that appears on click
+		// use text as place holder
+		circles.on("click", function(d){
 				d3.selectAll("#bilbo")
 					.select("p")
 					.remove();

@@ -50,7 +50,6 @@
 
 		]
 
-
 	var gridCoordinates=[[0,1,2,3,"Enf",5,6,7],
 							[0,1,"Hrw","Brn", "Hgy", "Wth", 6,7],
 							["Hdn", "Elg", "Brt", "Cmd", "Isl", "Hck", "Rdb", "Hvg"],
@@ -59,6 +58,7 @@
 							[0, 1, "Kng", "Mrt", "Crd", "Brm", 6,7],
 							[0, 1, 2, "Stn", 4, 5, 6,7],
 							];
+
 	var boroughCoordinates=[];
 	var gridSize=70;
 	var buffer=7;
@@ -100,18 +100,13 @@
 		max=0;
 
 		for(i=0; i<data.length; i++){
-
 			if(parseFloat(data[i].total)>max){
-
-				max=parseFloat(data[i].total);
-			}
-		}
+				max=parseFloat(data[i].total); }
+			};
 
 		radiusScale=d3.scale.linear()
 						.domain([0, max])
-						//.range([0, (gridSize/2-10-5)])
-						.range([0, (gridSize/2)])
-						;
+						.range([0, (gridSize/1.75)]);
 
 		colorScale=d3.scale.linear()
 					.domain([0,max])
@@ -130,17 +125,15 @@
 						.append("g")
 						.attr("id", boroughGrids[z].borough)
 						.attr("transform", boroughGrids[z].transformation)
-						//.attr("fill", "#0019A8")
 						.attr("fill", "#fff")
 						.append("path")
 						.attr("d", boroughGrids[z].path)
 						.attr("stroke", "#000")
 						.attr("stroke-width","1")
-
 				}
 			}
+		};
 
-		}
 		// remaining sections ie squares
 		grids=canvas.selectAll("rect")
 					.data(data)
@@ -148,29 +141,21 @@
 					  .append("rect")
 					  .attr("width", gridSize)
 					  .attr("height", gridSize)
-					  .attr("x", function(d){for(z=0;z<boroughCoordinates.length; z++){
-
+					  .attr("x", function(d){
+												for(z=0;z<boroughCoordinates.length; z++){
 													if(d.abbreviation==boroughCoordinates[z].borough.replace(/'/g, "")){
-
-														return (boroughCoordinates[z].xCoord)
-													}
-													}
-													})
-
-					  .attr("y", function(d){for(z=0;z<boroughCoordinates.length; z++){
+														return (boroughCoordinates[z].xCoord) } } })
+					  .attr("y", function(d){
+												for(z=0;z<boroughCoordinates.length; z++){
 													if(d.abbreviation==boroughCoordinates[z].borough.replace(/'/g, "")){
-														return (boroughCoordinates[z].yCoord)
-													}
-													}
-													})
-					//.attr("fill", "#0019A8")
+														return (boroughCoordinates[z].yCoord) } } })
 					.attr("fill", "#fff")
 					.attr("stroke", "#000")
 					.attr("stroke-width", "1")
 					.attr("stroke-opacity", ".1")
-					.attr("opacity", function (d){if (d.abbreviation=="Wst"||d.abbreviation=="Cty"||d.abbreviation=="Tow"||d.abbreviation=="Nwm"||d.abbreviation=="Bar"||d.abbreviation=="Lam"||d.abbreviation=="Swr"||d.abbreviation=="Lsh"||d.abbreviation=="Grn"||d.abbreviation=="Bxl"){
-						return 0}
-					});
+					.attr("opacity", function (d){
+							if (d.abbreviation=="Wst"||d.abbreviation=="Cty"||d.abbreviation=="Tow"||d.abbreviation=="Nwm"||d.abbreviation=="Bar"||d.abbreviation=="Lam"||d.abbreviation=="Swr"||d.abbreviation=="Lsh"||d.abbreviation=="Grn"||d.abbreviation=="Bxl"){
+						return 0 } });
 
 		// create circles using imported data, set colour at the end. Use the named coordinates and grid size to place
 		circles=canvas.selectAll("circle")
@@ -178,22 +163,20 @@
 					  .enter()
 					  .append("circle")
 					  .attr("r", function(d){return radiusScale(d.total)})
-					  .attr("cx", function(d){for(z=0;z<boroughCoordinates.length; z++){
-
+					  .attr("cx", function(d){
+													for(z=0;z<boroughCoordinates.length; z++){
 													if(d.abbreviation==boroughCoordinates[z].borough.replace(/'/g, "")){
-
 														return (boroughCoordinates[z].xCoord+gridSize/2)
 													}
 													}
 													})
-
-					  .attr("cy", function(d){for(z=0;z<boroughCoordinates.length; z++){
+					  .attr("cy", function(d){
+													for(z=0;z<boroughCoordinates.length; z++){
 													if(d.abbreviation==boroughCoordinates[z].borough.replace(/'/g, "")){
 														return (boroughCoordinates[z].yCoord+gridSize/2)
 													}
 													}
 													})
-					  //.attr("fill", "yellow");
 						.attr("fill", "url(#grad)");
 
 		// label with borough names
@@ -203,14 +186,11 @@
 					  .append("text")
 					  .text(function(d){return d.abbreviation})
 					  .attr("x", function(d){for(z=0;z<boroughCoordinates.length; z++){
-
 													if(d.abbreviation==boroughCoordinates[z].borough.replace(/'/g, "")){
-
 														return (boroughCoordinates[z].xCoord+buffer)
 													}
 													}
 													})
-
 					  .attr("y", function(d){for(z=0;z<boroughCoordinates.length; z++){
 													if(d.abbreviation==boroughCoordinates[z].borough.replace(/'/g, "")){
 														return (boroughCoordinates[z].yCoord+buffer*2)
@@ -233,7 +213,6 @@
 													}
 													}
 													})
-
 					  .attr("y", function(d){for(z=0;z<boroughCoordinates.length; z++){
 													if(d.abbreviation==boroughCoordinates[z].borough.replace(/'/g, "")){
 														return (boroughCoordinates[z].yCoord+gridSize-buffer)
@@ -247,7 +226,7 @@
 	var total=0;
 
 	for(s=0; s<data.length;s++){
-		total+=parseFloat(data[s].total);
+		total += parseFloat(data[s].total);
 	}
 
 	circles
@@ -310,5 +289,60 @@
 				.text(d.borough+" has "+d.total+" reports.")
 	}
 	})
-
 	});
+
+function choropleth(){
+	bubbleChartBool=false
+	choroplethBool=true;
+
+	d3.csv("data/testData.csv", function(error, data) {
+		circles.transition().duration(500)
+			.attr("r", 0);
+
+		grids.transition().duration(500)
+			.attr("fill", function(d){return colorScale(d.total)})
+
+
+		for(i=0; i<boroughGrids.length; i++){
+			var ooo;
+			for (j=0; j<data.length; j++){
+				if(data[j].abbreviation==boroughGrids[i].borough){
+					ooo=j;
+
+				}
+			}
+			x="#"+boroughGrids[i].borough;
+			d3.select(x).transition().duration(500)
+			.attr("fill", function(d){return colorScale(data[ooo].total)})
+
+			}
+		d3.selectAll(".labels2").transition().duration(500).style("opacity",1);
+	})
+	}
+
+
+	function bubbleChart(){
+	bubbleChartBool=true
+	choroplethBool=false;
+
+	d3.selectAll("#bilbo").select("p").remove();
+
+	d3.csv("data/testData.csv", function(error, data) {
+		circles.transition().duration(500)
+			.attr("r", function(d){return radiusScale(d.total)})
+
+		grids.transition().duration(500)
+			.attr("fill", "#fff");
+
+
+
+		for(i=0; i<boroughGrids.length; i++){
+
+			x="#"+boroughGrids[i].borough;
+			d3.select(x).transition().duration(500)
+			.attr("fill", "#fff");
+
+			}
+		d3.selectAll(".labels2").transition().duration(500).style("opacity",0);
+	})
+	}

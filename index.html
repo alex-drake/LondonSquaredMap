@@ -15,6 +15,7 @@
 	<!-- LS CSS -->
 	<link href="css/londonsquared.css" rel="stylesheet" type="text/css">
 	<script src="js/d3.v3.min.js"></script>
+  <script src="js/queue.v1.min.js"></script>
 </head>
 
 <body>
@@ -54,20 +55,13 @@
 	<hr class="extra-margins">
 
 	<div class="row" align="center">
-		<div class="col-md-6">Map
+		<div class="col-md-10">Map
       <div id="canvasDiv"></div>
     </div>
-		<div class="col-md-6">Chart
+		<div class="col-md-2">Selection
 		<div class="row">
-
-			<div style="float: left; padding-top: 50px">
-				<form action="">
-					<input type="radio" onclick="bubbleChart()" checked="checked" name="dataToggle">Bubble Chart<br>
-					<input type="radio" onclick="choropleth()" name="dataToggle">Choropleth 1<br>
-
-				</form>
-
-			</div>
+      <div id="monthList" class="button"></div>
+      <div id="kpiList" class="button"></div>
 		</div>
 		<div class="row">
 			<div id="bilbo"></div>
@@ -87,9 +81,7 @@
   <!-- MDB core JavaScript -->
   <script type="text/javascript" src="js/mdb.min.js"></script>
 
-	<script type="text/javascript" src="js/londonSquared2.js"></script>
-
-	<script type="text/javascript" src="js/choropleth2.js"></script>
+	<script type="text/javascript" src="js/london2quar3d.js"></script>
 
 	<!--/. SCRIPTS -->
 

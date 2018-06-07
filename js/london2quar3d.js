@@ -4,7 +4,7 @@
 
 // london2quar3d.js v1.0
 
-var totals, months, measures, kpiSel, monthSel, dataSel, dataFiltered;
+var totals, months, measures, kpiSel, monthlyData, dataFiltered;
 var q = queue();
 
 ///////////////////////////////////////////
@@ -21,22 +21,8 @@ q.defer(d3.csv, "data/testData2.csv")
 function handleData(error, dataIn) {
 	if(error){alert("Data Error");}
 
-  // determine unique months
-  // months = d3.nest().key(function(d) { return d.month; }).entries(dataIn);
-
 	// determine unique measures (kpis)
 	measures = d3.nest().key(function(d) { return d.measure; }).entries(dataIn);
-
-  // //build month list
-	// var monthList = d3.select("#monthList")
-	// 			.append("select")
-	// 			.attr("multiple",true)
-	// 			.attr("size",2)
-	// 			.selectAll("option")
-	// 			.data(d3.map(months, function(d) { return d.key;}).keys()).enter()
-	// 			.append("option")
-	// 			.text(function(d){return d;})
-	// 			.attr("value", function(d){return d;});
 
 	var measureList = d3.select("#kpiList")
 				.append("select")
@@ -69,6 +55,18 @@ function changeKPI(data, kpiSel){
 	kpiSel = kpiSel;
 	dataFiltered = data.filter(function(g) { return g.measure == kpiSel; });
 
+	d3.select("#kpiDesc").data(dataFiltered)
+	.html(function(d){ return "You are currently viewing '"+d.measure+"'"; });
+
+	monthlyData = d3.nest()
+									.key(function(d) { return d.month; })
+								.rollup(function(d) {
+									return { total: d3.sum(d, function(g){ return g.value; })};
+								})
+								.entries(dataFiltered)
+								.map(function(d) { return {month: d.key,
+																						total: d.values.total}; });
+
 	dataFiltered = d3.nest()
 										.key(function(d) { return d.abbreviation; })
 								.rollup(function(d) {
@@ -82,6 +80,7 @@ function changeKPI(data, kpiSel){
 																				;
 
 	mapSquared(dataFiltered, "#canvasDiv");
+	lineChart(monthlyData, "#chart");
 }
 
 // Mapping Function - user must pass in the data table and the div
@@ -89,6 +88,7 @@ function changeKPI(data, kpiSel){
 function mapSquared(data, div){
 	var width=700;
 	var height=600;
+
 	var clean = d3.select(div).selectAll("svg").remove();
 	var canvas= d3.select(div).append("svg")
 				.attr("width", width)
@@ -265,30 +265,6 @@ function mapSquared(data, div){
 														})
 							.attr("fill", "#D7D7D7");
 
-				// show actual volume/value in bottom rh corner
-				var labels2=canvas.selectAll("tspan")
-							.data(data)
-							.enter()
-							.append("text")
-							.text(function(d){return d.total})
-							.attr("x", function(d){for(z=0;z<boroughCoordinates.length; z++){
-
-														if(d.abbreviation==boroughCoordinates[z].borough.replace(/'/g, "")){
-															var thisWidth = this.getComputedTextLength()
-															return (boroughCoordinates[z].xCoord+70-(buffer+thisWidth))
-														}
-														}
-														})
-							.attr("y", function(d){for(z=0;z<boroughCoordinates.length; z++){
-														if(d.abbreviation==boroughCoordinates[z].borough.replace(/'/g, "")){
-															return (boroughCoordinates[z].yCoord+gridSize-buffer)
-														}
-														}
-														})
-							.attr("fill", "#D7D7D7")
-							.attr("class","labels2")
-							.style("opacity",0);
-
 		var total=0;
 
 		for(s=0; s<data.length;s++){
@@ -337,15 +313,70 @@ function mapSquared(data, div){
 				.style("left", "-100px")
 				.style("top", "-100px")
 		})
+}
 
-		// to create: monthly chart of performance that appears on click
-		// use text as place holder
-		circles.on("click", function(d){
-				d3.selectAll("#bilbo")
-					.select("p")
-					.remove();
-				d3.selectAll("#bilbo")
-					.append("p")
-					.text(d.borough+" has "+d.total+" reports.");
-		})
+function lineChart(data, div){
+
+	d3.select(div).selectAll("svg").remove();
+
+	var margin = {top: 5, right: 5, bottom: 5, left: 5},
+    width = 384 - margin.left - margin.right,
+    height = 200 - margin.top - margin.bottom;
+
+	var formatDate = d3.time.format("%d-%b-%Y").parse;
+
+	data.forEach(function(d) {
+			d.month = formatDate(d.month);
+		});
+
+	data = data.sort(function(a,b) {
+		return d3.ascending(a.month, b.month);
+	});
+
+	var x = d3.time.scale()
+	    .range([0, width]);
+	var y = d3.scale.linear()
+	    .range([height, 0]);
+	var xAxis = d3.svg.axis()
+	    .scale(x)
+	    .orient("bottom");
+	var yAxis = d3.svg.axis()
+	    .scale(y)
+	    .orient("left");
+
+	var area = d3.svg.area()
+	    .x(function(d) { return x(d.month); })
+	    .y0(height)
+	    .y1(function(d) { return y(d.total); });
+
+	var svg = d3.select(div).append("svg")
+	    .attr("width", width + margin.left + margin.right)
+	    .attr("height", height + margin.top + margin.bottom)
+	  .append("g")
+	    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+  x.domain(d3.extent(data, function(d) { return d.month; }));
+  y.domain(d3.extent(data, function(d) { return d.total; }));
+
+  svg.append("g")
+      .attr("class", "x axis")
+      .attr("transform", "translate(0," + height + ")")
+      .call(xAxis)
+			.attr("fill","none")
+			.attr("stroke","#000");
+
+  svg.append("g")
+      .attr("class", "y axis")
+      .call(yAxis)
+			.attr("fill","none")
+			.attr("stroke","#000");
+
+  svg.append("path")
+      .datum(data)
+      .attr("class", "area")
+      .attr("d", area)
+			.attr("fill","#D7D7D7")
+			.attr("stroke","#000")
+			.attr("stroke-width","2")
+			.attr("opacity",".4");
 }

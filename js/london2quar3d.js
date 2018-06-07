@@ -56,7 +56,7 @@ function changeKPI(data, kpiSel){
 	dataFiltered = data.filter(function(g) { return g.measure == kpiSel; });
 
 	d3.select("#kpiDesc").data(dataFiltered)
-	.html(function(d){ return "You're currently viewing '"+d.measure+"'"; });
+	.html(function(d){ return "You are currently viewing '"+d.measure+"'"; });
 
 	monthlyData = d3.nest()
 									.key(function(d) { return d.month; })

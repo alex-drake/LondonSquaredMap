@@ -1,694 +1,694 @@
 borough,abbreviation,month,measure,value
-Barking & Dagenham,Bar,01-Jan-2018,sales,150
-Barking & Dagenham,Bar,01-Feb-2018,sales,111
-Barking & Dagenham,Bar,01-Mar-2018,sales,117
-Barking & Dagenham,Bar,01-Apr-2018,sales,113
-Barking & Dagenham,Bar,01-May-2018,sales,113
-Barking & Dagenham,Bar,01-Jun-2018,sales,132
-Barking & Dagenham,Bar,01-Jul-2018,sales,131
-Barking & Dagenham,Bar,01-Aug-2018,sales,121
-Barking & Dagenham,Bar,01-Sep-2018,sales,146
-Barking & Dagenham,Bar,01-Oct-2018,sales,131
-Barking & Dagenham,Bar,01-Nov-2018,sales,65
-Barking & Dagenham,Bar,01-Dec-2018,sales,50
-Barnet,Brn,01-Apr-2018,sales,199
-Barnet,Brn,01-May-2018,sales,219
-Barnet,Brn,01-Jun-2018,sales,247
-Barnet,Brn,01-Jul-2018,sales,207
-Barnet,Brn,01-Aug-2018,sales,180
-Barnet,Brn,01-Sep-2018,sales,233
-Barnet,Brn,01-Oct-2018,sales,205
-Barnet,Brn,01-Nov-2018,sales,95
-Barnet,Brn,01-Dec-2018,sales,100
-Bexley,Bxl,01-Jan-2018,sales,90
-Bexley,Bxl,01-Feb-2018,sales,87
-Bexley,Bxl,01-Mar-2018,sales,86
-Bexley,Bxl,01-Jul-2018,sales,115
-Bexley,Bxl,01-Aug-2018,sales,84
-Bexley,Bxl,01-Sep-2018,sales,116
-Bexley,Bxl,01-Oct-2018,sales,104
-Bexley,Bxl,01-Nov-2018,sales,68
-Bexley,Bxl,01-Dec-2018,sales,59
-Brent,Brt,01-Jan-2018,sales,220
-Brent,Brt,01-Feb-2018,sales,196
-Brent,Brt,01-Mar-2018,sales,215
-Brent,Brt,01-Apr-2018,sales,202
-Brent,Brt,01-May-2018,sales,248
-Brent,Brt,01-Jun-2018,sales,230
-Brent,Brt,01-Oct-2018,sales,235
-Brent,Brt,01-Nov-2018,sales,132
-Brent,Brt,01-Dec-2018,sales,113
-Bromley,Brm,01-Jan-2018,sales,137
-Bromley,Brm,01-Feb-2018,sales,149
-Bromley,Brm,01-Mar-2018,sales,142
-Bromley,Brm,01-Apr-2018,sales,129
-Bromley,Brm,01-May-2018,sales,168
-Bromley,Brm,01-Jun-2018,sales,144
-Bromley,Brm,01-Jul-2018,sales,170
-Bromley,Brm,01-Aug-2018,sales,143
-Bromley,Brm,01-Sep-2018,sales,145
-Camden,Cmd,01-Jan-2018,sales,259
-Camden,Cmd,01-Feb-2018,sales,270
-Camden,Cmd,01-Mar-2018,sales,246
-Camden,Cmd,01-Apr-2018,sales,279
-Camden,Cmd,01-May-2018,sales,296
-Camden,Cmd,01-Jun-2018,sales,294
-Camden,Cmd,01-Jul-2018,sales,271
-Camden,Cmd,01-Aug-2018,sales,287
-Camden,Cmd,01-Sep-2018,sales,342
-Camden,Cmd,01-Oct-2018,sales,336
-Camden,Cmd,01-Nov-2018,sales,220
-Camden,Cmd,01-Dec-2018,sales,212
-City,Cty,01-Apr-2018,sales,413
-City,Cty,01-May-2018,sales,498
-City,Cty,01-Jun-2018,sales,446
-City,Cty,01-Jul-2018,sales,533
-City,Cty,01-Aug-2018,sales,487
-City,Cty,01-Sep-2018,sales,470
-City,Cty,01-Oct-2018,sales,454
-City,Cty,01-Nov-2018,sales,339
-City,Cty,01-Dec-2018,sales,278
-Croydon,Crd,01-Jan-2018,sales,216
-Croydon,Crd,01-Feb-2018,sales,197
-Croydon,Crd,01-Mar-2018,sales,183
-Croydon,Crd,01-Jul-2018,sales,230
-Croydon,Crd,01-Aug-2018,sales,214
-Croydon,Crd,01-Sep-2018,sales,229
-Croydon,Crd,01-Oct-2018,sales,234
-Croydon,Crd,01-Nov-2018,sales,128
-Croydon,Crd,01-Dec-2018,sales,143
-Ealing,Elg,01-Jan-2018,sales,212
-Ealing,Elg,01-Feb-2018,sales,211
-Ealing,Elg,01-Mar-2018,sales,242
-Ealing,Elg,01-Apr-2018,sales,271
-Ealing,Elg,01-May-2018,sales,272
-Ealing,Elg,01-Jun-2018,sales,261
-Ealing,Elg,01-Oct-2018,sales,222
-Ealing,Elg,01-Nov-2018,sales,145
-Ealing,Elg,01-Dec-2018,sales,116
-Enfield,Enf,01-Jan-2018,sales,161
-Enfield,Enf,01-Feb-2018,sales,168
-Enfield,Enf,01-Mar-2018,sales,173
-Enfield,Enf,01-Apr-2018,sales,152
-Enfield,Enf,01-May-2018,sales,207
-Enfield,Enf,01-Jun-2018,sales,145
-Enfield,Enf,01-Jul-2018,sales,187
-Enfield,Enf,01-Aug-2018,sales,153
-Enfield,Enf,01-Sep-2018,sales,198
-Greenwich,Grn,01-Jan-2018,sales,128
-Greenwich,Grn,01-Feb-2018,sales,171
-Greenwich,Grn,01-Mar-2018,sales,177
-Greenwich,Grn,01-Apr-2018,sales,157
-Greenwich,Grn,01-May-2018,sales,185
-Greenwich,Grn,01-Jun-2018,sales,178
-Greenwich,Grn,01-Jul-2018,sales,230
-Greenwich,Grn,01-Aug-2018,sales,192
-Greenwich,Grn,01-Sep-2018,sales,199
-Greenwich,Grn,01-Oct-2018,sales,221
-Greenwich,Grn,01-Nov-2018,sales,158
-Greenwich,Grn,01-Dec-2018,sales,140
-Hackney,Hck,01-Apr-2018,sales,377
-Hackney,Hck,01-May-2018,sales,381
-Hackney,Hck,01-Jun-2018,sales,470
-Hackney,Hck,01-Jul-2018,sales,433
-Hackney,Hck,01-Aug-2018,sales,417
-Hackney,Hck,01-Sep-2018,sales,404
-Hackney,Hck,01-Oct-2018,sales,408
-Hackney,Hck,01-Nov-2018,sales,288
-Hackney,Hck,01-Dec-2018,sales,247
-Hammersmith & Fulham,Hms,01-Jan-2018,sales,216
-Hammersmith & Fulham,Hms,01-Feb-2018,sales,204
-Hammersmith & Fulham,Hms,01-Mar-2018,sales,206
-Hammersmith & Fulham,Hms,01-Jul-2018,sales,313
-Hammersmith & Fulham,Hms,01-Aug-2018,sales,285
-Hammersmith & Fulham,Hms,01-Sep-2018,sales,278
-Hammersmith & Fulham,Hms,01-Oct-2018,sales,269
-Hammersmith & Fulham,Hms,01-Nov-2018,sales,181
-Hammersmith & Fulham,Hms,01-Dec-2018,sales,161
-Haringey,Hgy,01-Jan-2018,sales,193
-Haringey,Hgy,01-Feb-2018,sales,206
-Haringey,Hgy,01-Mar-2018,sales,244
-Haringey,Hgy,01-Apr-2018,sales,247
-Haringey,Hgy,01-May-2018,sales,266
-Haringey,Hgy,01-Jun-2018,sales,241
-Haringey,Hgy,01-Oct-2018,sales,265
-Haringey,Hgy,01-Nov-2018,sales,158
-Haringey,Hgy,01-Dec-2018,sales,163
-Harrow,Hrw,01-Jan-2018,sales,100
-Harrow,Hrw,01-Feb-2018,sales,94
-Harrow,Hrw,01-Mar-2018,sales,80
-Harrow,Hrw,01-Apr-2018,sales,85
-Harrow,Hrw,01-May-2018,sales,119
-Harrow,Hrw,01-Jun-2018,sales,103
-Harrow,Hrw,01-Jul-2018,sales,118
-Harrow,Hrw,01-Aug-2018,sales,88
-Harrow,Hrw,01-Sep-2018,sales,101
-Havering,Hvg,01-Jan-2018,sales,148
-Havering,Hvg,01-Feb-2018,sales,144
-Havering,Hvg,01-Mar-2018,sales,110
-Havering,Hvg,01-Apr-2018,sales,115
-Havering,Hvg,01-May-2018,sales,136
-Havering,Hvg,01-Jun-2018,sales,128
-Havering,Hvg,01-Jul-2018,sales,112
-Havering,Hvg,01-Aug-2018,sales,122
-Havering,Hvg,01-Sep-2018,sales,120
-Havering,Hvg,01-Oct-2018,sales,140
-Havering,Hvg,01-Nov-2018,sales,75
-Havering,Hvg,01-Dec-2018,sales,80
-Hendon,Hdn,01-Apr-2018,sales,24
-Hendon,Hdn,01-May-2018,sales,11
-Hendon,Hdn,01-Jun-2018,sales,34
-Hendon,Hdn,01-Jul-2018,sales,38
-Hendon,Hdn,01-Aug-2018,sales,23
-Hendon,Hdn,01-Sep-2018,sales,25
-Hendon,Hdn,01-Oct-2018,sales,20
-Hendon,Hdn,01-Nov-2018,sales,16
-Hendon,Hdn,01-Dec-2018,sales,12
-Hounslow,Hns,01-Jan-2018,sales,137
-Hounslow,Hns,01-Feb-2018,sales,137
-Hounslow,Hns,01-Mar-2018,sales,136
-Hounslow,Hns,01-Jul-2018,sales,160
-Hounslow,Hns,01-Aug-2018,sales,152
-Hounslow,Hns,01-Sep-2018,sales,195
-Hounslow,Hns,01-Oct-2018,sales,208
-Hounslow,Hns,01-Nov-2018,sales,121
-Hounslow,Hns,01-Dec-2018,sales,107
-Islington,Isl,01-Jan-2018,sales,185
-Islington,Isl,01-Feb-2018,sales,192
-Islington,Isl,01-Mar-2018,sales,162
-Islington,Isl,01-Apr-2018,sales,187
-Islington,Isl,01-May-2018,sales,220
-Islington,Isl,01-Jun-2018,sales,191
-Islington,Isl,01-Oct-2018,sales,239
-Islington,Isl,01-Nov-2018,sales,104
-Islington,Isl,01-Dec-2018,sales,104
-Kensington & Chelsea,Kns,01-Jan-2018,sales,289
-Kensington & Chelsea,Kns,01-Feb-2018,sales,278
-Kensington & Chelsea,Kns,01-Mar-2018,sales,291
-Kensington & Chelsea,Kns,01-Apr-2018,sales,229
-Kensington & Chelsea,Kns,01-May-2018,sales,262
-Kensington & Chelsea,Kns,01-Jun-2018,sales,287
-Kensington & Chelsea,Kns,01-Jul-2018,sales,327
-Kensington & Chelsea,Kns,01-Aug-2018,sales,268
-Kensington & Chelsea,Kns,01-Sep-2018,sales,305
-Kingston upon Thames,Kng,01-Jan-2018,sales,108
-Kingston upon Thames,Kng,01-Feb-2018,sales,143
-Kingston upon Thames,Kng,01-Mar-2018,sales,148
-Kingston upon Thames,Kng,01-Apr-2018,sales,167
-Kingston upon Thames,Kng,01-May-2018,sales,186
-Kingston upon Thames,Kng,01-Jun-2018,sales,209
-Kingston upon Thames,Kng,01-Jul-2018,sales,191
-Kingston upon Thames,Kng,01-Aug-2018,sales,183
-Kingston upon Thames,Kng,01-Sep-2018,sales,184
-Kingston upon Thames,Kng,01-Oct-2018,sales,174
-Kingston upon Thames,Kng,01-Nov-2018,sales,125
-Kingston upon Thames,Kng,01-Dec-2018,sales,112
-Lambeth,Lam,01-Apr-2018,sales,87
-Lambeth,Lam,01-May-2018,sales,94
-Lambeth,Lam,01-Jun-2018,sales,93
-Lambeth,Lam,01-Jul-2018,sales,88
-Lambeth,Lam,01-Aug-2018,sales,105
-Lambeth,Lam,01-Sep-2018,sales,115
-Lambeth,Lam,01-Oct-2018,sales,119
-Lambeth,Lam,01-Nov-2018,sales,46
-Lambeth,Lam,01-Dec-2018,sales,59
-Lewisham,Lsh,01-Jan-2018,sales,326
-Lewisham,Lsh,01-Feb-2018,sales,310
-Lewisham,Lsh,01-Mar-2018,sales,354
-Lewisham,Lsh,01-Jul-2018,sales,438
-Lewisham,Lsh,01-Aug-2018,sales,402
-Lewisham,Lsh,01-Sep-2018,sales,424
-Lewisham,Lsh,01-Oct-2018,sales,453
-Lewisham,Lsh,01-Nov-2018,sales,287
-Lewisham,Lsh,01-Dec-2018,sales,277
-Merton,Mrt,01-Jan-2018,sales,179
-Merton,Mrt,01-Feb-2018,sales,207
-Merton,Mrt,01-Mar-2018,sales,207
-Merton,Mrt,01-Apr-2018,sales,223
-Merton,Mrt,01-May-2018,sales,223
-Merton,Mrt,01-Jun-2018,sales,234
-Merton,Mrt,01-Oct-2018,sales,246
-Merton,Mrt,01-Nov-2018,sales,161
-Merton,Mrt,01-Dec-2018,sales,170
-Newham,Nwm,01-Jan-2018,sales,141
-Newham,Nwm,01-Feb-2018,sales,145
-Newham,Nwm,01-Mar-2018,sales,134
-Newham,Nwm,01-Apr-2018,sales,148
-Newham,Nwm,01-May-2018,sales,142
-Newham,Nwm,01-Jun-2018,sales,118
-Newham,Nwm,01-Jul-2018,sales,162
-Newham,Nwm,01-Aug-2018,sales,126
-Newham,Nwm,01-Sep-2018,sales,144
-Redbridge,Rdb,01-Jan-2018,sales,234
-Redbridge,Rdb,01-Feb-2018,sales,224
-Redbridge,Rdb,01-Mar-2018,sales,222
-Redbridge,Rdb,01-Apr-2018,sales,221
-Redbridge,Rdb,01-May-2018,sales,250
-Redbridge,Rdb,01-Jun-2018,sales,217
-Redbridge,Rdb,01-Jul-2018,sales,250
-Redbridge,Rdb,01-Aug-2018,sales,254
-Redbridge,Rdb,01-Sep-2018,sales,248
-Redbridge,Rdb,01-Oct-2018,sales,293
-Redbridge,Rdb,01-Nov-2018,sales,190
-Redbridge,Rdb,01-Dec-2018,sales,194
-Richmond upon Thames,Rch,01-Apr-2018,sales,135
-Richmond upon Thames,Rch,01-May-2018,sales,116
-Richmond upon Thames,Rch,01-Jun-2018,sales,134
-Richmond upon Thames,Rch,01-Jul-2018,sales,164
-Richmond upon Thames,Rch,01-Aug-2018,sales,136
-Richmond upon Thames,Rch,01-Sep-2018,sales,159
-Richmond upon Thames,Rch,01-Oct-2018,sales,138
-Richmond upon Thames,Rch,01-Nov-2018,sales,89
-Richmond upon Thames,Rch,01-Dec-2018,sales,71
-Southwark,Swr,01-Jan-2018,sales,87
-Southwark,Swr,01-Feb-2018,sales,113
-Southwark,Swr,01-Mar-2018,sales,108
-Southwark,Swr,01-Jul-2018,sales,189
-Southwark,Swr,01-Aug-2018,sales,190
-Southwark,Swr,01-Sep-2018,sales,194
-Southwark,Swr,01-Oct-2018,sales,154
-Southwark,Swr,01-Nov-2018,sales,120
-Southwark,Swr,01-Dec-2018,sales,102
-Sutton,Stn,01-Jan-2018,sales,291
-Sutton,Stn,01-Feb-2018,sales,294
-Sutton,Stn,01-Mar-2018,sales,342
-Sutton,Stn,01-Apr-2018,sales,339
-Sutton,Stn,01-May-2018,sales,401
-Sutton,Stn,01-Jun-2018,sales,374
-Sutton,Stn,01-Oct-2018,sales,411
-Sutton,Stn,01-Nov-2018,sales,286
-Sutton,Stn,01-Dec-2018,sales,252
-Tower Hamlets,Tow,01-Jan-2018,sales,85
-Tower Hamlets,Tow,01-Feb-2018,sales,88
-Tower Hamlets,Tow,01-Mar-2018,sales,93
-Tower Hamlets,Tow,01-Apr-2018,sales,91
-Tower Hamlets,Tow,01-May-2018,sales,86
-Tower Hamlets,Tow,01-Jun-2018,sales,105
-Tower Hamlets,Tow,01-Jul-2018,sales,69
-Tower Hamlets,Tow,01-Aug-2018,sales,61
-Tower Hamlets,Tow,01-Sep-2018,sales,84
-Waltham Forest,Wth,01-Jan-2018,sales,289
-Waltham Forest,Wth,01-Feb-2018,sales,279
-Waltham Forest,Wth,01-Mar-2018,sales,310
-Waltham Forest,Wth,01-Apr-2018,sales,367
-Waltham Forest,Wth,01-May-2018,sales,386
-Waltham Forest,Wth,01-Jun-2018,sales,370
-Waltham Forest,Wth,01-Jul-2018,sales,468
-Waltham Forest,Wth,01-Aug-2018,sales,430
-Waltham Forest,Wth,01-Sep-2018,sales,403
-Waltham Forest,Wth,01-Oct-2018,sales,468
-Waltham Forest,Wth,01-Nov-2018,sales,321
-Waltham Forest,Wth,01-Dec-2018,sales,205
-Wandsworth,Wns,01-Apr-2018,sales,143
-Wandsworth,Wns,01-May-2018,sales,197
-Wandsworth,Wns,01-Jun-2018,sales,185
-Wandsworth,Wns,01-Jul-2018,sales,162
-Wandsworth,Wns,01-Aug-2018,sales,165
-Wandsworth,Wns,01-Sep-2018,sales,198
-Wandsworth,Wns,01-Oct-2018,sales,188
-Wandsworth,Wns,01-Nov-2018,sales,123
-Wandsworth,Wns,01-Dec-2018,sales,95
-Westminster,Wst,01-Jan-2018,sales,266
-Westminster,Wst,01-Feb-2018,sales,255
-Westminster,Wst,01-Mar-2018,sales,220
-Westminster,Wst,01-Jul-2018,sales,290
-Westminster,Wst,01-Aug-2018,sales,315
-Westminster,Wst,01-Sep-2018,sales,321
-Westminster,Wst,01-Oct-2018,sales,347
-Westminster,Wst,01-Nov-2018,sales,216
-Westminster,Wst,01-Dec-2018,sales,197
-Barking & Dagenham,Bar,01-Jan-2018,pirates,96
-Barking & Dagenham,Bar,01-Feb-2018,pirates,9
-Barking & Dagenham,Bar,01-Mar-2018,pirates,83
-Barking & Dagenham,Bar,01-Apr-2018,pirates,112
-Barking & Dagenham,Bar,01-May-2018,pirates,49
-Barking & Dagenham,Bar,01-Jun-2018,pirates,18
-Barking & Dagenham,Bar,01-Oct-2018,pirates,97
-Barking & Dagenham,Bar,01-Nov-2018,pirates,34
-Barking & Dagenham,Bar,01-Dec-2018,pirates,39
-Barnet,Brn,01-Jan-2018,pirates,5
-Barnet,Brn,01-Feb-2018,pirates,81
-Barnet,Brn,01-Mar-2018,pirates,146
-Barnet,Brn,01-Apr-2018,pirates,77
-Barnet,Brn,01-May-2018,pirates,57
-Barnet,Brn,01-Jun-2018,pirates,52
-Barnet,Brn,01-Jul-2018,pirates,184
-Barnet,Brn,01-Aug-2018,pirates,2
-Barnet,Brn,01-Sep-2018,pirates,132
-Bexley,Bxl,01-Jan-2018,pirates,40
-Bexley,Bxl,01-Feb-2018,pirates,14
-Bexley,Bxl,01-Mar-2018,pirates,7
-Bexley,Bxl,01-Apr-2018,pirates,78
-Bexley,Bxl,01-May-2018,pirates,45
-Bexley,Bxl,01-Jun-2018,pirates,47
-Bexley,Bxl,01-Jul-2018,pirates,91
-Bexley,Bxl,01-Aug-2018,pirates,32
-Bexley,Bxl,01-Sep-2018,pirates,11
-Bexley,Bxl,01-Oct-2018,pirates,58
-Bexley,Bxl,01-Nov-2018,pirates,12
-Bexley,Bxl,01-Dec-2018,pirates,10
-Brent,Brt,01-Apr-2018,pirates,43
-Brent,Brt,01-May-2018,pirates,126
-Brent,Brt,01-Jun-2018,pirates,80
-Brent,Brt,01-Jul-2018,pirates,188
-Brent,Brt,01-Aug-2018,pirates,131
-Brent,Brt,01-Sep-2018,pirates,207
-Brent,Brt,01-Oct-2018,pirates,74
-Brent,Brt,01-Nov-2018,pirates,8
-Brent,Brt,01-Dec-2018,pirates,7
-Bromley,Brm,01-Jan-2018,pirates,80
-Bromley,Brm,01-Feb-2018,pirates,75
-Bromley,Brm,01-Mar-2018,pirates,41
-Bromley,Brm,01-Jul-2018,pirates,49
-Bromley,Brm,01-Aug-2018,pirates,87
-Bromley,Brm,01-Sep-2018,pirates,88
-Bromley,Brm,01-Oct-2018,pirates,91
-Bromley,Brm,01-Nov-2018,pirates,70
-Bromley,Brm,01-Dec-2018,pirates,61
-Camden,Cmd,01-Jan-2018,pirates,79
-Camden,Cmd,01-Feb-2018,pirates,61
-Camden,Cmd,01-Mar-2018,pirates,46
-Camden,Cmd,01-Apr-2018,pirates,220
-Camden,Cmd,01-May-2018,pirates,91
-Camden,Cmd,01-Jun-2018,pirates,186
-Camden,Cmd,01-Oct-2018,pirates,286
-Camden,Cmd,01-Nov-2018,pirates,161
-Camden,Cmd,01-Dec-2018,pirates,71
-City,Cty,01-Jan-2018,pirates,127
-City,Cty,01-Feb-2018,pirates,213
-City,Cty,01-Mar-2018,pirates,178
-City,Cty,01-Apr-2018,pirates,293
-City,Cty,01-May-2018,pirates,295
-City,Cty,01-Jun-2018,pirates,24
-City,Cty,01-Jul-2018,pirates,355
-City,Cty,01-Aug-2018,pirates,453
-City,Cty,01-Sep-2018,pirates,332
-Croydon,Crd,01-Jan-2018,pirates,161
-Croydon,Crd,01-Feb-2018,pirates,188
-Croydon,Crd,01-Mar-2018,pirates,19
-Croydon,Crd,01-Apr-2018,pirates,151
-Croydon,Crd,01-May-2018,pirates,230
-Croydon,Crd,01-Jun-2018,pirates,70
-Croydon,Crd,01-Jul-2018,pirates,76
-Croydon,Crd,01-Aug-2018,pirates,170
-Croydon,Crd,01-Sep-2018,pirates,168
-Croydon,Crd,01-Oct-2018,pirates,83
-Croydon,Crd,01-Nov-2018,pirates,123
-Croydon,Crd,01-Dec-2018,pirates,61
-Ealing,Elg,01-Apr-2018,pirates,46
-Ealing,Elg,01-May-2018,pirates,96
-Ealing,Elg,01-Jun-2018,pirates,10
-Ealing,Elg,01-Jul-2018,pirates,106
-Ealing,Elg,01-Aug-2018,pirates,8
-Ealing,Elg,01-Sep-2018,pirates,147
-Ealing,Elg,01-Oct-2018,pirates,221
-Ealing,Elg,01-Nov-2018,pirates,67
-Ealing,Elg,01-Dec-2018,pirates,28
-Enfield,Enf,01-Jan-2018,pirates,82
-Enfield,Enf,01-Feb-2018,pirates,139
-Enfield,Enf,01-Mar-2018,pirates,85
-Enfield,Enf,01-Apr-2018,pirates,31
-Enfield,Enf,01-May-2018,pirates,184
-Enfield,Enf,01-Jun-2018,pirates,49
-Enfield,Enf,01-Jul-2018,pirates,12
-Enfield,Enf,01-Aug-2018,pirates,54
-Enfield,Enf,01-Sep-2018,pirates,72
-Enfield,Enf,01-Oct-2018,pirates,59
-Enfield,Enf,01-Nov-2018,pirates,81
-Enfield,Enf,01-Dec-2018,pirates,27
-Greenwich,Grn,01-Jan-2018,pirates,36
-Greenwich,Grn,01-Feb-2018,pirates,22
-Greenwich,Grn,01-Mar-2018,pirates,59
-Greenwich,Grn,01-Apr-2018,pirates,0
-Greenwich,Grn,01-May-2018,pirates,177
-Greenwich,Grn,01-Jun-2018,pirates,18
-Greenwich,Grn,01-Jul-2018,pirates,105
-Greenwich,Grn,01-Aug-2018,pirates,96
-Greenwich,Grn,01-Sep-2018,pirates,146
-Greenwich,Grn,01-Oct-2018,pirates,77
-Greenwich,Grn,01-Nov-2018,pirates,115
-Greenwich,Grn,01-Dec-2018,pirates,1
-Hackney,Hck,01-Jan-2018,pirates,40
-Hackney,Hck,01-Feb-2018,pirates,39
-Hackney,Hck,01-Mar-2018,pirates,42
-Hackney,Hck,01-Apr-2018,pirates,222
-Hackney,Hck,01-May-2018,pirates,47
-Hackney,Hck,01-Jun-2018,pirates,358
-Hackney,Hck,01-Jul-2018,pirates,144
-Hackney,Hck,01-Aug-2018,pirates,378
-Hackney,Hck,01-Sep-2018,pirates,235
-Hackney,Hck,01-Oct-2018,pirates,394
-Hackney,Hck,01-Nov-2018,pirates,176
-Hackney,Hck,01-Dec-2018,pirates,47
-Hammersmith & Fulham,Hms,01-Jan-2018,pirates,122
-Hammersmith & Fulham,Hms,01-Feb-2018,pirates,203
-Hammersmith & Fulham,Hms,01-Mar-2018,pirates,179
-Hammersmith & Fulham,Hms,01-Apr-2018,pirates,105
-Hammersmith & Fulham,Hms,01-May-2018,pirates,224
-Hammersmith & Fulham,Hms,01-Jun-2018,pirates,147
-Hammersmith & Fulham,Hms,01-Jul-2018,pirates,143
-Hammersmith & Fulham,Hms,01-Aug-2018,pirates,264
-Hammersmith & Fulham,Hms,01-Sep-2018,pirates,138
-Hammersmith & Fulham,Hms,01-Oct-2018,pirates,41
-Hammersmith & Fulham,Hms,01-Nov-2018,pirates,139
-Hammersmith & Fulham,Hms,01-Dec-2018,pirates,102
-Haringey,Hgy,01-Jan-2018,pirates,192
-Haringey,Hgy,01-Feb-2018,pirates,152
-Haringey,Hgy,01-Mar-2018,pirates,116
-Haringey,Hgy,01-Apr-2018,pirates,112
-Haringey,Hgy,01-May-2018,pirates,242
-Haringey,Hgy,01-Jun-2018,pirates,166
-Haringey,Hgy,01-Jul-2018,pirates,37
-Haringey,Hgy,01-Aug-2018,pirates,72
-Haringey,Hgy,01-Sep-2018,pirates,27
-Haringey,Hgy,01-Oct-2018,pirates,64
-Haringey,Hgy,01-Nov-2018,pirates,89
-Haringey,Hgy,01-Dec-2018,pirates,41
-Harrow,Hrw,01-Jan-2018,pirates,43
-Harrow,Hrw,01-Feb-2018,pirates,2
-Harrow,Hrw,01-Mar-2018,pirates,56
-Harrow,Hrw,01-Apr-2018,pirates,71
-Harrow,Hrw,01-May-2018,pirates,4
-Harrow,Hrw,01-Jun-2018,pirates,60
-Harrow,Hrw,01-Jul-2018,pirates,82
-Harrow,Hrw,01-Aug-2018,pirates,65
-Harrow,Hrw,01-Sep-2018,pirates,85
-Harrow,Hrw,01-Oct-2018,pirates,76
-Harrow,Hrw,01-Nov-2018,pirates,1
-Harrow,Hrw,01-Dec-2018,pirates,42
-Havering,Hvg,01-Jan-2018,pirates,125
-Havering,Hvg,01-Feb-2018,pirates,53
-Havering,Hvg,01-Mar-2018,pirates,80
-Havering,Hvg,01-Apr-2018,pirates,23
-Havering,Hvg,01-May-2018,pirates,5
-Havering,Hvg,01-Jun-2018,pirates,93
-Havering,Hvg,01-Jul-2018,pirates,88
-Havering,Hvg,01-Aug-2018,pirates,47
-Havering,Hvg,01-Sep-2018,pirates,38
-Havering,Hvg,01-Oct-2018,pirates,1
-Havering,Hvg,01-Nov-2018,pirates,73
-Havering,Hvg,01-Dec-2018,pirates,42
-Hendon,Hdn,01-Jan-2018,pirates,15
-Hendon,Hdn,01-Feb-2018,pirates,15
-Hendon,Hdn,01-Mar-2018,pirates,9
-Hendon,Hdn,01-Apr-2018,pirates,8
-Hendon,Hdn,01-May-2018,pirates,10
-Hendon,Hdn,01-Jun-2018,pirates,17
-Hendon,Hdn,01-Jul-2018,pirates,9
-Hendon,Hdn,01-Aug-2018,pirates,8
-Hendon,Hdn,01-Sep-2018,pirates,11
-Hendon,Hdn,01-Oct-2018,pirates,5
-Hendon,Hdn,01-Nov-2018,pirates,6
-Hendon,Hdn,01-Dec-2018,pirates,12
-Hounslow,Hns,01-Jan-2018,pirates,93
-Hounslow,Hns,01-Feb-2018,pirates,34
-Hounslow,Hns,01-Mar-2018,pirates,3
-Hounslow,Hns,01-Apr-2018,pirates,32
-Hounslow,Hns,01-May-2018,pirates,150
-Hounslow,Hns,01-Jun-2018,pirates,50
-Hounslow,Hns,01-Jul-2018,pirates,37
-Hounslow,Hns,01-Aug-2018,pirates,130
-Hounslow,Hns,01-Sep-2018,pirates,179
-Hounslow,Hns,01-Oct-2018,pirates,2
-Hounslow,Hns,01-Nov-2018,pirates,59
-Hounslow,Hns,01-Dec-2018,pirates,17
-Islington,Isl,01-Jan-2018,pirates,173
-Islington,Isl,01-Feb-2018,pirates,24
-Islington,Isl,01-Mar-2018,pirates,39
-Islington,Isl,01-Apr-2018,pirates,17
-Islington,Isl,01-May-2018,pirates,212
-Islington,Isl,01-Jun-2018,pirates,138
-Islington,Isl,01-Jul-2018,pirates,17
-Islington,Isl,01-Aug-2018,pirates,99
-Islington,Isl,01-Sep-2018,pirates,76
-Islington,Isl,01-Oct-2018,pirates,181
-Islington,Isl,01-Nov-2018,pirates,72
-Islington,Isl,01-Dec-2018,pirates,46
-Kensington & Chelsea,Kns,01-Jan-2018,pirates,242
-Kensington & Chelsea,Kns,01-Feb-2018,pirates,114
-Kensington & Chelsea,Kns,01-Mar-2018,pirates,245
-Kensington & Chelsea,Kns,01-Apr-2018,pirates,176
-Kensington & Chelsea,Kns,01-May-2018,pirates,147
-Kensington & Chelsea,Kns,01-Jun-2018,pirates,275
-Kensington & Chelsea,Kns,01-Jul-2018,pirates,75
-Kensington & Chelsea,Kns,01-Aug-2018,pirates,133
-Kensington & Chelsea,Kns,01-Sep-2018,pirates,107
-Kensington & Chelsea,Kns,01-Oct-2018,pirates,83
-Kensington & Chelsea,Kns,01-Nov-2018,pirates,136
-Kensington & Chelsea,Kns,01-Dec-2018,pirates,73
-Kingston upon Thames,Kng,01-Jan-2018,pirates,52
-Kingston upon Thames,Kng,01-Feb-2018,pirates,129
-Kingston upon Thames,Kng,01-Mar-2018,pirates,3
-Kingston upon Thames,Kng,01-Apr-2018,pirates,12
-Kingston upon Thames,Kng,01-May-2018,pirates,5
-Kingston upon Thames,Kng,01-Jun-2018,pirates,22
-Kingston upon Thames,Kng,01-Jul-2018,pirates,83
-Kingston upon Thames,Kng,01-Aug-2018,pirates,83
-Kingston upon Thames,Kng,01-Sep-2018,pirates,127
-Kingston upon Thames,Kng,01-Oct-2018,pirates,142
-Kingston upon Thames,Kng,01-Nov-2018,pirates,106
-Kingston upon Thames,Kng,01-Dec-2018,pirates,95
-Lambeth,Lam,01-Jan-2018,pirates,10
-Lambeth,Lam,01-Feb-2018,pirates,28
-Lambeth,Lam,01-Mar-2018,pirates,17
-Lambeth,Lam,01-Apr-2018,pirates,9
-Lambeth,Lam,01-May-2018,pirates,64
-Lambeth,Lam,01-Jun-2018,pirates,77
-Lambeth,Lam,01-Jul-2018,pirates,41
-Lambeth,Lam,01-Aug-2018,pirates,47
-Lambeth,Lam,01-Sep-2018,pirates,99
-Lambeth,Lam,01-Oct-2018,pirates,106
-Lambeth,Lam,01-Nov-2018,pirates,27
-Lambeth,Lam,01-Dec-2018,pirates,21
-Lewisham,Lsh,01-Jan-2018,pirates,115
-Lewisham,Lsh,01-Feb-2018,pirates,53
-Lewisham,Lsh,01-Mar-2018,pirates,165
-Lewisham,Lsh,01-Apr-2018,pirates,88
-Lewisham,Lsh,01-May-2018,pirates,188
-Lewisham,Lsh,01-Jun-2018,pirates,142
-Lewisham,Lsh,01-Jul-2018,pirates,331
-Lewisham,Lsh,01-Aug-2018,pirates,162
-Lewisham,Lsh,01-Sep-2018,pirates,418
-Lewisham,Lsh,01-Oct-2018,pirates,384
-Lewisham,Lsh,01-Nov-2018,pirates,124
-Lewisham,Lsh,01-Dec-2018,pirates,24
-Merton,Mrt,01-Jan-2018,pirates,136
-Merton,Mrt,01-Feb-2018,pirates,51
-Merton,Mrt,01-Mar-2018,pirates,108
-Merton,Mrt,01-Apr-2018,pirates,108
-Merton,Mrt,01-May-2018,pirates,40
-Merton,Mrt,01-Jun-2018,pirates,70
-Merton,Mrt,01-Jul-2018,pirates,141
-Merton,Mrt,01-Aug-2018,pirates,76
-Merton,Mrt,01-Sep-2018,pirates,79
-Merton,Mrt,01-Oct-2018,pirates,145
-Merton,Mrt,01-Nov-2018,pirates,38
-Merton,Mrt,01-Dec-2018,pirates,81
-Newham,Nwm,01-Jan-2018,pirates,65
-Newham,Nwm,01-Feb-2018,pirates,134
-Newham,Nwm,01-Mar-2018,pirates,49
-Newham,Nwm,01-Apr-2018,pirates,108
-Newham,Nwm,01-May-2018,pirates,60
-Newham,Nwm,01-Jun-2018,pirates,17
-Newham,Nwm,01-Jul-2018,pirates,0
-Newham,Nwm,01-Aug-2018,pirates,47
-Newham,Nwm,01-Sep-2018,pirates,137
-Newham,Nwm,01-Oct-2018,pirates,20
-Newham,Nwm,01-Nov-2018,pirates,12
-Newham,Nwm,01-Dec-2018,pirates,65
-Redbridge,Rdb,01-Jan-2018,pirates,9
-Redbridge,Rdb,01-Feb-2018,pirates,200
-Redbridge,Rdb,01-Mar-2018,pirates,132
-Redbridge,Rdb,01-Apr-2018,pirates,186
-Redbridge,Rdb,01-May-2018,pirates,100
-Redbridge,Rdb,01-Jun-2018,pirates,51
-Redbridge,Rdb,01-Jul-2018,pirates,25
-Redbridge,Rdb,01-Aug-2018,pirates,124
-Redbridge,Rdb,01-Sep-2018,pirates,231
-Redbridge,Rdb,01-Oct-2018,pirates,191
-Redbridge,Rdb,01-Nov-2018,pirates,11
-Redbridge,Rdb,01-Dec-2018,pirates,111
-Richmond upon Thames,Rch,01-Jan-2018,pirates,100
-Richmond upon Thames,Rch,01-Feb-2018,pirates,136
-Richmond upon Thames,Rch,01-Mar-2018,pirates,3
-Richmond upon Thames,Rch,01-Apr-2018,pirates,110
-Richmond upon Thames,Rch,01-May-2018,pirates,40
-Richmond upon Thames,Rch,01-Jun-2018,pirates,65
-Richmond upon Thames,Rch,01-Jul-2018,pirates,31
-Richmond upon Thames,Rch,01-Aug-2018,pirates,127
-Richmond upon Thames,Rch,01-Sep-2018,pirates,46
-Richmond upon Thames,Rch,01-Oct-2018,pirates,114
-Richmond upon Thames,Rch,01-Nov-2018,pirates,66
-Richmond upon Thames,Rch,01-Dec-2018,pirates,21
-Southwark,Swr,01-Jan-2018,pirates,85
-Southwark,Swr,01-Feb-2018,pirates,47
-Southwark,Swr,01-Mar-2018,pirates,80
-Southwark,Swr,01-Apr-2018,pirates,83
-Southwark,Swr,01-May-2018,pirates,63
-Southwark,Swr,01-Jun-2018,pirates,131
-Southwark,Swr,01-Jul-2018,pirates,75
-Southwark,Swr,01-Aug-2018,pirates,65
-Southwark,Swr,01-Sep-2018,pirates,24
-Southwark,Swr,01-Oct-2018,pirates,78
-Southwark,Swr,01-Nov-2018,pirates,21
-Southwark,Swr,01-Dec-2018,pirates,41
-Sutton,Stn,01-Jan-2018,pirates,122
-Sutton,Stn,01-Feb-2018,pirates,91
-Sutton,Stn,01-Mar-2018,pirates,40
-Sutton,Stn,01-Apr-2018,pirates,158
-Sutton,Stn,01-May-2018,pirates,331
-Sutton,Stn,01-Jun-2018,pirates,262
-Sutton,Stn,01-Jul-2018,pirates,57
-Sutton,Stn,01-Aug-2018,pirates,23
-Sutton,Stn,01-Sep-2018,pirates,177
-Sutton,Stn,01-Oct-2018,pirates,194
-Sutton,Stn,01-Nov-2018,pirates,10
-Sutton,Stn,01-Dec-2018,pirates,123
-Tower Hamlets,Tow,01-Jan-2018,pirates,47
-Tower Hamlets,Tow,01-Feb-2018,pirates,45
-Tower Hamlets,Tow,01-Mar-2018,pirates,83
-Tower Hamlets,Tow,01-Apr-2018,pirates,32
-Tower Hamlets,Tow,01-May-2018,pirates,12
-Tower Hamlets,Tow,01-Jun-2018,pirates,14
-Tower Hamlets,Tow,01-Jul-2018,pirates,8
-Tower Hamlets,Tow,01-Aug-2018,pirates,17
-Tower Hamlets,Tow,01-Sep-2018,pirates,32
-Tower Hamlets,Tow,01-Oct-2018,pirates,85
-Tower Hamlets,Tow,01-Nov-2018,pirates,0
-Tower Hamlets,Tow,01-Dec-2018,pirates,37
-Waltham Forest,Wth,01-Jan-2018,pirates,46
-Waltham Forest,Wth,01-Feb-2018,pirates,203
-Waltham Forest,Wth,01-Mar-2018,pirates,9
-Waltham Forest,Wth,01-Apr-2018,pirates,39
-Waltham Forest,Wth,01-May-2018,pirates,121
-Waltham Forest,Wth,01-Jun-2018,pirates,197
-Waltham Forest,Wth,01-Jul-2018,pirates,112
-Waltham Forest,Wth,01-Aug-2018,pirates,29
-Waltham Forest,Wth,01-Sep-2018,pirates,183
-Waltham Forest,Wth,01-Oct-2018,pirates,166
-Waltham Forest,Wth,01-Nov-2018,pirates,282
-Waltham Forest,Wth,01-Dec-2018,pirates,16
-Wandsworth,Wns,01-Jan-2018,pirates,111
-Wandsworth,Wns,01-Feb-2018,pirates,23
-Wandsworth,Wns,01-Mar-2018,pirates,145
-Wandsworth,Wns,01-Apr-2018,pirates,1
-Wandsworth,Wns,01-May-2018,pirates,47
-Wandsworth,Wns,01-Jun-2018,pirates,0
-Wandsworth,Wns,01-Jul-2018,pirates,81
-Wandsworth,Wns,01-Aug-2018,pirates,77
-Wandsworth,Wns,01-Sep-2018,pirates,154
-Wandsworth,Wns,01-Oct-2018,pirates,97
-Wandsworth,Wns,01-Nov-2018,pirates,9
-Wandsworth,Wns,01-Dec-2018,pirates,44
-Westminster,Wst,01-Jan-2018,pirates,133
-Westminster,Wst,01-Feb-2018,pirates,186
-Westminster,Wst,01-Mar-2018,pirates,84
-Westminster,Wst,01-Apr-2018,pirates,179
-Westminster,Wst,01-May-2018,pirates,135
-Westminster,Wst,01-Jun-2018,pirates,287
-Westminster,Wst,01-Jul-2018,pirates,121
-Westminster,Wst,01-Aug-2018,pirates,8
-Westminster,Wst,01-Sep-2018,pirates,193
-Westminster,Wst,01-Oct-2018,pirates,307
-Westminster,Wst,01-Nov-2018,pirates,61
-Westminster,Wst,01-Dec-2018,pirates,168
+Barking & Dagenham,Bar,01-Jan-2018,Wooden leg sales,150
+Barking & Dagenham,Bar,01-Feb-2018,Wooden leg sales,111
+Barking & Dagenham,Bar,01-Mar-2018,Wooden leg sales,117
+Barking & Dagenham,Bar,01-Apr-2018,Wooden leg sales,113
+Barking & Dagenham,Bar,01-May-2018,Wooden leg sales,113
+Barking & Dagenham,Bar,01-Jun-2018,Wooden leg sales,132
+Barking & Dagenham,Bar,01-Jul-2018,Wooden leg sales,131
+Barking & Dagenham,Bar,01-Aug-2018,Wooden leg sales,121
+Barking & Dagenham,Bar,01-Sep-2018,Wooden leg sales,146
+Barking & Dagenham,Bar,01-Oct-2018,Wooden leg sales,131
+Barking & Dagenham,Bar,01-Nov-2018,Wooden leg sales,65
+Barking & Dagenham,Bar,01-Dec-2018,Wooden leg sales,50
+Barnet,Brn,01-Apr-2018,Wooden leg sales,199
+Barnet,Brn,01-May-2018,Wooden leg sales,219
+Barnet,Brn,01-Jun-2018,Wooden leg sales,247
+Barnet,Brn,01-Jul-2018,Wooden leg sales,207
+Barnet,Brn,01-Aug-2018,Wooden leg sales,180
+Barnet,Brn,01-Sep-2018,Wooden leg sales,233
+Barnet,Brn,01-Oct-2018,Wooden leg sales,205
+Barnet,Brn,01-Nov-2018,Wooden leg sales,95
+Barnet,Brn,01-Dec-2018,Wooden leg sales,100
+Bexley,Bxl,01-Jan-2018,Wooden leg sales,90
+Bexley,Bxl,01-Feb-2018,Wooden leg sales,87
+Bexley,Bxl,01-Mar-2018,Wooden leg sales,86
+Bexley,Bxl,01-Jul-2018,Wooden leg sales,115
+Bexley,Bxl,01-Aug-2018,Wooden leg sales,84
+Bexley,Bxl,01-Sep-2018,Wooden leg sales,116
+Bexley,Bxl,01-Oct-2018,Wooden leg sales,104
+Bexley,Bxl,01-Nov-2018,Wooden leg sales,68
+Bexley,Bxl,01-Dec-2018,Wooden leg sales,59
+Brent,Brt,01-Jan-2018,Wooden leg sales,220
+Brent,Brt,01-Feb-2018,Wooden leg sales,196
+Brent,Brt,01-Mar-2018,Wooden leg sales,215
+Brent,Brt,01-Apr-2018,Wooden leg sales,202
+Brent,Brt,01-May-2018,Wooden leg sales,248
+Brent,Brt,01-Jun-2018,Wooden leg sales,230
+Brent,Brt,01-Oct-2018,Wooden leg sales,235
+Brent,Brt,01-Nov-2018,Wooden leg sales,132
+Brent,Brt,01-Dec-2018,Wooden leg sales,113
+Bromley,Brm,01-Jan-2018,Wooden leg sales,137
+Bromley,Brm,01-Feb-2018,Wooden leg sales,149
+Bromley,Brm,01-Mar-2018,Wooden leg sales,142
+Bromley,Brm,01-Apr-2018,Wooden leg sales,129
+Bromley,Brm,01-May-2018,Wooden leg sales,168
+Bromley,Brm,01-Jun-2018,Wooden leg sales,144
+Bromley,Brm,01-Jul-2018,Wooden leg sales,170
+Bromley,Brm,01-Aug-2018,Wooden leg sales,143
+Bromley,Brm,01-Sep-2018,Wooden leg sales,145
+Camden,Cmd,01-Jan-2018,Wooden leg sales,259
+Camden,Cmd,01-Feb-2018,Wooden leg sales,270
+Camden,Cmd,01-Mar-2018,Wooden leg sales,246
+Camden,Cmd,01-Apr-2018,Wooden leg sales,279
+Camden,Cmd,01-May-2018,Wooden leg sales,296
+Camden,Cmd,01-Jun-2018,Wooden leg sales,294
+Camden,Cmd,01-Jul-2018,Wooden leg sales,271
+Camden,Cmd,01-Aug-2018,Wooden leg sales,287
+Camden,Cmd,01-Sep-2018,Wooden leg sales,342
+Camden,Cmd,01-Oct-2018,Wooden leg sales,336
+Camden,Cmd,01-Nov-2018,Wooden leg sales,220
+Camden,Cmd,01-Dec-2018,Wooden leg sales,212
+City,Cty,01-Apr-2018,Wooden leg sales,413
+City,Cty,01-May-2018,Wooden leg sales,498
+City,Cty,01-Jun-2018,Wooden leg sales,446
+City,Cty,01-Jul-2018,Wooden leg sales,533
+City,Cty,01-Aug-2018,Wooden leg sales,487
+City,Cty,01-Sep-2018,Wooden leg sales,470
+City,Cty,01-Oct-2018,Wooden leg sales,454
+City,Cty,01-Nov-2018,Wooden leg sales,339
+City,Cty,01-Dec-2018,Wooden leg sales,278
+Croydon,Crd,01-Jan-2018,Wooden leg sales,216
+Croydon,Crd,01-Feb-2018,Wooden leg sales,197
+Croydon,Crd,01-Mar-2018,Wooden leg sales,183
+Croydon,Crd,01-Jul-2018,Wooden leg sales,230
+Croydon,Crd,01-Aug-2018,Wooden leg sales,214
+Croydon,Crd,01-Sep-2018,Wooden leg sales,229
+Croydon,Crd,01-Oct-2018,Wooden leg sales,234
+Croydon,Crd,01-Nov-2018,Wooden leg sales,128
+Croydon,Crd,01-Dec-2018,Wooden leg sales,143
+Ealing,Elg,01-Jan-2018,Wooden leg sales,212
+Ealing,Elg,01-Feb-2018,Wooden leg sales,211
+Ealing,Elg,01-Mar-2018,Wooden leg sales,242
+Ealing,Elg,01-Apr-2018,Wooden leg sales,271
+Ealing,Elg,01-May-2018,Wooden leg sales,272
+Ealing,Elg,01-Jun-2018,Wooden leg sales,261
+Ealing,Elg,01-Oct-2018,Wooden leg sales,222
+Ealing,Elg,01-Nov-2018,Wooden leg sales,145
+Ealing,Elg,01-Dec-2018,Wooden leg sales,116
+Enfield,Enf,01-Jan-2018,Wooden leg sales,161
+Enfield,Enf,01-Feb-2018,Wooden leg sales,168
+Enfield,Enf,01-Mar-2018,Wooden leg sales,173
+Enfield,Enf,01-Apr-2018,Wooden leg sales,152
+Enfield,Enf,01-May-2018,Wooden leg sales,207
+Enfield,Enf,01-Jun-2018,Wooden leg sales,145
+Enfield,Enf,01-Jul-2018,Wooden leg sales,187
+Enfield,Enf,01-Aug-2018,Wooden leg sales,153
+Enfield,Enf,01-Sep-2018,Wooden leg sales,198
+Greenwich,Grn,01-Jan-2018,Wooden leg sales,128
+Greenwich,Grn,01-Feb-2018,Wooden leg sales,171
+Greenwich,Grn,01-Mar-2018,Wooden leg sales,177
+Greenwich,Grn,01-Apr-2018,Wooden leg sales,157
+Greenwich,Grn,01-May-2018,Wooden leg sales,185
+Greenwich,Grn,01-Jun-2018,Wooden leg sales,178
+Greenwich,Grn,01-Jul-2018,Wooden leg sales,230
+Greenwich,Grn,01-Aug-2018,Wooden leg sales,192
+Greenwich,Grn,01-Sep-2018,Wooden leg sales,199
+Greenwich,Grn,01-Oct-2018,Wooden leg sales,221
+Greenwich,Grn,01-Nov-2018,Wooden leg sales,158
+Greenwich,Grn,01-Dec-2018,Wooden leg sales,140
+Hackney,Hck,01-Apr-2018,Wooden leg sales,377
+Hackney,Hck,01-May-2018,Wooden leg sales,381
+Hackney,Hck,01-Jun-2018,Wooden leg sales,470
+Hackney,Hck,01-Jul-2018,Wooden leg sales,433
+Hackney,Hck,01-Aug-2018,Wooden leg sales,417
+Hackney,Hck,01-Sep-2018,Wooden leg sales,404
+Hackney,Hck,01-Oct-2018,Wooden leg sales,408
+Hackney,Hck,01-Nov-2018,Wooden leg sales,288
+Hackney,Hck,01-Dec-2018,Wooden leg sales,247
+Hammersmith & Fulham,Hms,01-Jan-2018,Wooden leg sales,216
+Hammersmith & Fulham,Hms,01-Feb-2018,Wooden leg sales,204
+Hammersmith & Fulham,Hms,01-Mar-2018,Wooden leg sales,206
+Hammersmith & Fulham,Hms,01-Jul-2018,Wooden leg sales,313
+Hammersmith & Fulham,Hms,01-Aug-2018,Wooden leg sales,285
+Hammersmith & Fulham,Hms,01-Sep-2018,Wooden leg sales,278
+Hammersmith & Fulham,Hms,01-Oct-2018,Wooden leg sales,269
+Hammersmith & Fulham,Hms,01-Nov-2018,Wooden leg sales,181
+Hammersmith & Fulham,Hms,01-Dec-2018,Wooden leg sales,161
+Haringey,Hgy,01-Jan-2018,Wooden leg sales,193
+Haringey,Hgy,01-Feb-2018,Wooden leg sales,206
+Haringey,Hgy,01-Mar-2018,Wooden leg sales,244
+Haringey,Hgy,01-Apr-2018,Wooden leg sales,247
+Haringey,Hgy,01-May-2018,Wooden leg sales,266
+Haringey,Hgy,01-Jun-2018,Wooden leg sales,241
+Haringey,Hgy,01-Oct-2018,Wooden leg sales,265
+Haringey,Hgy,01-Nov-2018,Wooden leg sales,158
+Haringey,Hgy,01-Dec-2018,Wooden leg sales,163
+Harrow,Hrw,01-Jan-2018,Wooden leg sales,100
+Harrow,Hrw,01-Feb-2018,Wooden leg sales,94
+Harrow,Hrw,01-Mar-2018,Wooden leg sales,80
+Harrow,Hrw,01-Apr-2018,Wooden leg sales,85
+Harrow,Hrw,01-May-2018,Wooden leg sales,119
+Harrow,Hrw,01-Jun-2018,Wooden leg sales,103
+Harrow,Hrw,01-Jul-2018,Wooden leg sales,118
+Harrow,Hrw,01-Aug-2018,Wooden leg sales,88
+Harrow,Hrw,01-Sep-2018,Wooden leg sales,101
+Havering,Hvg,01-Jan-2018,Wooden leg sales,148
+Havering,Hvg,01-Feb-2018,Wooden leg sales,144
+Havering,Hvg,01-Mar-2018,Wooden leg sales,110
+Havering,Hvg,01-Apr-2018,Wooden leg sales,115
+Havering,Hvg,01-May-2018,Wooden leg sales,136
+Havering,Hvg,01-Jun-2018,Wooden leg sales,128
+Havering,Hvg,01-Jul-2018,Wooden leg sales,112
+Havering,Hvg,01-Aug-2018,Wooden leg sales,122
+Havering,Hvg,01-Sep-2018,Wooden leg sales,120
+Havering,Hvg,01-Oct-2018,Wooden leg sales,140
+Havering,Hvg,01-Nov-2018,Wooden leg sales,75
+Havering,Hvg,01-Dec-2018,Wooden leg sales,80
+Hendon,Hdn,01-Apr-2018,Wooden leg sales,24
+Hendon,Hdn,01-May-2018,Wooden leg sales,11
+Hendon,Hdn,01-Jun-2018,Wooden leg sales,34
+Hendon,Hdn,01-Jul-2018,Wooden leg sales,38
+Hendon,Hdn,01-Aug-2018,Wooden leg sales,23
+Hendon,Hdn,01-Sep-2018,Wooden leg sales,25
+Hendon,Hdn,01-Oct-2018,Wooden leg sales,20
+Hendon,Hdn,01-Nov-2018,Wooden leg sales,16
+Hendon,Hdn,01-Dec-2018,Wooden leg sales,12
+Hounslow,Hns,01-Jan-2018,Wooden leg sales,137
+Hounslow,Hns,01-Feb-2018,Wooden leg sales,137
+Hounslow,Hns,01-Mar-2018,Wooden leg sales,136
+Hounslow,Hns,01-Jul-2018,Wooden leg sales,160
+Hounslow,Hns,01-Aug-2018,Wooden leg sales,152
+Hounslow,Hns,01-Sep-2018,Wooden leg sales,195
+Hounslow,Hns,01-Oct-2018,Wooden leg sales,208
+Hounslow,Hns,01-Nov-2018,Wooden leg sales,121
+Hounslow,Hns,01-Dec-2018,Wooden leg sales,107
+Islington,Isl,01-Jan-2018,Wooden leg sales,185
+Islington,Isl,01-Feb-2018,Wooden leg sales,192
+Islington,Isl,01-Mar-2018,Wooden leg sales,162
+Islington,Isl,01-Apr-2018,Wooden leg sales,187
+Islington,Isl,01-May-2018,Wooden leg sales,220
+Islington,Isl,01-Jun-2018,Wooden leg sales,191
+Islington,Isl,01-Oct-2018,Wooden leg sales,239
+Islington,Isl,01-Nov-2018,Wooden leg sales,104
+Islington,Isl,01-Dec-2018,Wooden leg sales,104
+Kensington & Chelsea,Kns,01-Jan-2018,Wooden leg sales,289
+Kensington & Chelsea,Kns,01-Feb-2018,Wooden leg sales,278
+Kensington & Chelsea,Kns,01-Mar-2018,Wooden leg sales,291
+Kensington & Chelsea,Kns,01-Apr-2018,Wooden leg sales,229
+Kensington & Chelsea,Kns,01-May-2018,Wooden leg sales,262
+Kensington & Chelsea,Kns,01-Jun-2018,Wooden leg sales,287
+Kensington & Chelsea,Kns,01-Jul-2018,Wooden leg sales,327
+Kensington & Chelsea,Kns,01-Aug-2018,Wooden leg sales,268
+Kensington & Chelsea,Kns,01-Sep-2018,Wooden leg sales,305
+Kingston upon Thames,Kng,01-Jan-2018,Wooden leg sales,108
+Kingston upon Thames,Kng,01-Feb-2018,Wooden leg sales,143
+Kingston upon Thames,Kng,01-Mar-2018,Wooden leg sales,148
+Kingston upon Thames,Kng,01-Apr-2018,Wooden leg sales,167
+Kingston upon Thames,Kng,01-May-2018,Wooden leg sales,186
+Kingston upon Thames,Kng,01-Jun-2018,Wooden leg sales,209
+Kingston upon Thames,Kng,01-Jul-2018,Wooden leg sales,191
+Kingston upon Thames,Kng,01-Aug-2018,Wooden leg sales,183
+Kingston upon Thames,Kng,01-Sep-2018,Wooden leg sales,184
+Kingston upon Thames,Kng,01-Oct-2018,Wooden leg sales,174
+Kingston upon Thames,Kng,01-Nov-2018,Wooden leg sales,125
+Kingston upon Thames,Kng,01-Dec-2018,Wooden leg sales,112
+Lambeth,Lam,01-Apr-2018,Wooden leg sales,87
+Lambeth,Lam,01-May-2018,Wooden leg sales,94
+Lambeth,Lam,01-Jun-2018,Wooden leg sales,93
+Lambeth,Lam,01-Jul-2018,Wooden leg sales,88
+Lambeth,Lam,01-Aug-2018,Wooden leg sales,105
+Lambeth,Lam,01-Sep-2018,Wooden leg sales,115
+Lambeth,Lam,01-Oct-2018,Wooden leg sales,119
+Lambeth,Lam,01-Nov-2018,Wooden leg sales,46
+Lambeth,Lam,01-Dec-2018,Wooden leg sales,59
+Lewisham,Lsh,01-Jan-2018,Wooden leg sales,326
+Lewisham,Lsh,01-Feb-2018,Wooden leg sales,310
+Lewisham,Lsh,01-Mar-2018,Wooden leg sales,354
+Lewisham,Lsh,01-Jul-2018,Wooden leg sales,438
+Lewisham,Lsh,01-Aug-2018,Wooden leg sales,402
+Lewisham,Lsh,01-Sep-2018,Wooden leg sales,424
+Lewisham,Lsh,01-Oct-2018,Wooden leg sales,453
+Lewisham,Lsh,01-Nov-2018,Wooden leg sales,287
+Lewisham,Lsh,01-Dec-2018,Wooden leg sales,277
+Merton,Mrt,01-Jan-2018,Wooden leg sales,179
+Merton,Mrt,01-Feb-2018,Wooden leg sales,207
+Merton,Mrt,01-Mar-2018,Wooden leg sales,207
+Merton,Mrt,01-Apr-2018,Wooden leg sales,223
+Merton,Mrt,01-May-2018,Wooden leg sales,223
+Merton,Mrt,01-Jun-2018,Wooden leg sales,234
+Merton,Mrt,01-Oct-2018,Wooden leg sales,246
+Merton,Mrt,01-Nov-2018,Wooden leg sales,161
+Merton,Mrt,01-Dec-2018,Wooden leg sales,170
+Newham,Nwm,01-Jan-2018,Wooden leg sales,141
+Newham,Nwm,01-Feb-2018,Wooden leg sales,145
+Newham,Nwm,01-Mar-2018,Wooden leg sales,134
+Newham,Nwm,01-Apr-2018,Wooden leg sales,148
+Newham,Nwm,01-May-2018,Wooden leg sales,142
+Newham,Nwm,01-Jun-2018,Wooden leg sales,118
+Newham,Nwm,01-Jul-2018,Wooden leg sales,162
+Newham,Nwm,01-Aug-2018,Wooden leg sales,126
+Newham,Nwm,01-Sep-2018,Wooden leg sales,144
+Redbridge,Rdb,01-Jan-2018,Wooden leg sales,234
+Redbridge,Rdb,01-Feb-2018,Wooden leg sales,224
+Redbridge,Rdb,01-Mar-2018,Wooden leg sales,222
+Redbridge,Rdb,01-Apr-2018,Wooden leg sales,221
+Redbridge,Rdb,01-May-2018,Wooden leg sales,250
+Redbridge,Rdb,01-Jun-2018,Wooden leg sales,217
+Redbridge,Rdb,01-Jul-2018,Wooden leg sales,250
+Redbridge,Rdb,01-Aug-2018,Wooden leg sales,254
+Redbridge,Rdb,01-Sep-2018,Wooden leg sales,248
+Redbridge,Rdb,01-Oct-2018,Wooden leg sales,293
+Redbridge,Rdb,01-Nov-2018,Wooden leg sales,190
+Redbridge,Rdb,01-Dec-2018,Wooden leg sales,194
+Richmond upon Thames,Rch,01-Apr-2018,Wooden leg sales,135
+Richmond upon Thames,Rch,01-May-2018,Wooden leg sales,116
+Richmond upon Thames,Rch,01-Jun-2018,Wooden leg sales,134
+Richmond upon Thames,Rch,01-Jul-2018,Wooden leg sales,164
+Richmond upon Thames,Rch,01-Aug-2018,Wooden leg sales,136
+Richmond upon Thames,Rch,01-Sep-2018,Wooden leg sales,159
+Richmond upon Thames,Rch,01-Oct-2018,Wooden leg sales,138
+Richmond upon Thames,Rch,01-Nov-2018,Wooden leg sales,89
+Richmond upon Thames,Rch,01-Dec-2018,Wooden leg sales,71
+Southwark,Swr,01-Jan-2018,Wooden leg sales,87
+Southwark,Swr,01-Feb-2018,Wooden leg sales,113
+Southwark,Swr,01-Mar-2018,Wooden leg sales,108
+Southwark,Swr,01-Jul-2018,Wooden leg sales,189
+Southwark,Swr,01-Aug-2018,Wooden leg sales,190
+Southwark,Swr,01-Sep-2018,Wooden leg sales,194
+Southwark,Swr,01-Oct-2018,Wooden leg sales,154
+Southwark,Swr,01-Nov-2018,Wooden leg sales,120
+Southwark,Swr,01-Dec-2018,Wooden leg sales,102
+Sutton,Stn,01-Jan-2018,Wooden leg sales,291
+Sutton,Stn,01-Feb-2018,Wooden leg sales,294
+Sutton,Stn,01-Mar-2018,Wooden leg sales,342
+Sutton,Stn,01-Apr-2018,Wooden leg sales,339
+Sutton,Stn,01-May-2018,Wooden leg sales,401
+Sutton,Stn,01-Jun-2018,Wooden leg sales,374
+Sutton,Stn,01-Oct-2018,Wooden leg sales,411
+Sutton,Stn,01-Nov-2018,Wooden leg sales,286
+Sutton,Stn,01-Dec-2018,Wooden leg sales,252
+Tower Hamlets,Tow,01-Jan-2018,Wooden leg sales,85
+Tower Hamlets,Tow,01-Feb-2018,Wooden leg sales,88
+Tower Hamlets,Tow,01-Mar-2018,Wooden leg sales,93
+Tower Hamlets,Tow,01-Apr-2018,Wooden leg sales,91
+Tower Hamlets,Tow,01-May-2018,Wooden leg sales,86
+Tower Hamlets,Tow,01-Jun-2018,Wooden leg sales,105
+Tower Hamlets,Tow,01-Jul-2018,Wooden leg sales,69
+Tower Hamlets,Tow,01-Aug-2018,Wooden leg sales,61
+Tower Hamlets,Tow,01-Sep-2018,Wooden leg sales,84
+Waltham Forest,Wth,01-Jan-2018,Wooden leg sales,289
+Waltham Forest,Wth,01-Feb-2018,Wooden leg sales,279
+Waltham Forest,Wth,01-Mar-2018,Wooden leg sales,310
+Waltham Forest,Wth,01-Apr-2018,Wooden leg sales,367
+Waltham Forest,Wth,01-May-2018,Wooden leg sales,386
+Waltham Forest,Wth,01-Jun-2018,Wooden leg sales,370
+Waltham Forest,Wth,01-Jul-2018,Wooden leg sales,468
+Waltham Forest,Wth,01-Aug-2018,Wooden leg sales,430
+Waltham Forest,Wth,01-Sep-2018,Wooden leg sales,403
+Waltham Forest,Wth,01-Oct-2018,Wooden leg sales,468
+Waltham Forest,Wth,01-Nov-2018,Wooden leg sales,321
+Waltham Forest,Wth,01-Dec-2018,Wooden leg sales,205
+Wandsworth,Wns,01-Apr-2018,Wooden leg sales,143
+Wandsworth,Wns,01-May-2018,Wooden leg sales,197
+Wandsworth,Wns,01-Jun-2018,Wooden leg sales,185
+Wandsworth,Wns,01-Jul-2018,Wooden leg sales,162
+Wandsworth,Wns,01-Aug-2018,Wooden leg sales,165
+Wandsworth,Wns,01-Sep-2018,Wooden leg sales,198
+Wandsworth,Wns,01-Oct-2018,Wooden leg sales,188
+Wandsworth,Wns,01-Nov-2018,Wooden leg sales,123
+Wandsworth,Wns,01-Dec-2018,Wooden leg sales,95
+Westminster,Wst,01-Jan-2018,Wooden leg sales,266
+Westminster,Wst,01-Feb-2018,Wooden leg sales,255
+Westminster,Wst,01-Mar-2018,Wooden leg sales,220
+Westminster,Wst,01-Jul-2018,Wooden leg sales,290
+Westminster,Wst,01-Aug-2018,Wooden leg sales,315
+Westminster,Wst,01-Sep-2018,Wooden leg sales,321
+Westminster,Wst,01-Oct-2018,Wooden leg sales,347
+Westminster,Wst,01-Nov-2018,Wooden leg sales,216
+Westminster,Wst,01-Dec-2018,Wooden leg sales,197
+Barking & Dagenham,Bar,01-Jan-2018,Pirate raids,96
+Barking & Dagenham,Bar,01-Feb-2018,Pirate raids,9
+Barking & Dagenham,Bar,01-Mar-2018,Pirate raids,83
+Barking & Dagenham,Bar,01-Apr-2018,Pirate raids,112
+Barking & Dagenham,Bar,01-May-2018,Pirate raids,49
+Barking & Dagenham,Bar,01-Jun-2018,Pirate raids,18
+Barking & Dagenham,Bar,01-Oct-2018,Pirate raids,97
+Barking & Dagenham,Bar,01-Nov-2018,Pirate raids,34
+Barking & Dagenham,Bar,01-Dec-2018,Pirate raids,39
+Barnet,Brn,01-Jan-2018,Pirate raids,5
+Barnet,Brn,01-Feb-2018,Pirate raids,81
+Barnet,Brn,01-Mar-2018,Pirate raids,146
+Barnet,Brn,01-Apr-2018,Pirate raids,77
+Barnet,Brn,01-May-2018,Pirate raids,57
+Barnet,Brn,01-Jun-2018,Pirate raids,52
+Barnet,Brn,01-Jul-2018,Pirate raids,184
+Barnet,Brn,01-Aug-2018,Pirate raids,2
+Barnet,Brn,01-Sep-2018,Pirate raids,132
+Bexley,Bxl,01-Jan-2018,Pirate raids,40
+Bexley,Bxl,01-Feb-2018,Pirate raids,14
+Bexley,Bxl,01-Mar-2018,Pirate raids,7
+Bexley,Bxl,01-Apr-2018,Pirate raids,78
+Bexley,Bxl,01-May-2018,Pirate raids,45
+Bexley,Bxl,01-Jun-2018,Pirate raids,47
+Bexley,Bxl,01-Jul-2018,Pirate raids,91
+Bexley,Bxl,01-Aug-2018,Pirate raids,32
+Bexley,Bxl,01-Sep-2018,Pirate raids,11
+Bexley,Bxl,01-Oct-2018,Pirate raids,58
+Bexley,Bxl,01-Nov-2018,Pirate raids,12
+Bexley,Bxl,01-Dec-2018,Pirate raids,10
+Brent,Brt,01-Apr-2018,Pirate raids,43
+Brent,Brt,01-May-2018,Pirate raids,126
+Brent,Brt,01-Jun-2018,Pirate raids,80
+Brent,Brt,01-Jul-2018,Pirate raids,188
+Brent,Brt,01-Aug-2018,Pirate raids,131
+Brent,Brt,01-Sep-2018,Pirate raids,207
+Brent,Brt,01-Oct-2018,Pirate raids,74
+Brent,Brt,01-Nov-2018,Pirate raids,8
+Brent,Brt,01-Dec-2018,Pirate raids,7
+Bromley,Brm,01-Jan-2018,Pirate raids,80
+Bromley,Brm,01-Feb-2018,Pirate raids,75
+Bromley,Brm,01-Mar-2018,Pirate raids,41
+Bromley,Brm,01-Jul-2018,Pirate raids,49
+Bromley,Brm,01-Aug-2018,Pirate raids,87
+Bromley,Brm,01-Sep-2018,Pirate raids,88
+Bromley,Brm,01-Oct-2018,Pirate raids,91
+Bromley,Brm,01-Nov-2018,Pirate raids,70
+Bromley,Brm,01-Dec-2018,Pirate raids,61
+Camden,Cmd,01-Jan-2018,Pirate raids,79
+Camden,Cmd,01-Feb-2018,Pirate raids,61
+Camden,Cmd,01-Mar-2018,Pirate raids,46
+Camden,Cmd,01-Apr-2018,Pirate raids,220
+Camden,Cmd,01-May-2018,Pirate raids,91
+Camden,Cmd,01-Jun-2018,Pirate raids,186
+Camden,Cmd,01-Oct-2018,Pirate raids,286
+Camden,Cmd,01-Nov-2018,Pirate raids,161
+Camden,Cmd,01-Dec-2018,Pirate raids,71
+City,Cty,01-Jan-2018,Pirate raids,127
+City,Cty,01-Feb-2018,Pirate raids,213
+City,Cty,01-Mar-2018,Pirate raids,178
+City,Cty,01-Apr-2018,Pirate raids,293
+City,Cty,01-May-2018,Pirate raids,295
+City,Cty,01-Jun-2018,Pirate raids,24
+City,Cty,01-Jul-2018,Pirate raids,355
+City,Cty,01-Aug-2018,Pirate raids,453
+City,Cty,01-Sep-2018,Pirate raids,332
+Croydon,Crd,01-Jan-2018,Pirate raids,161
+Croydon,Crd,01-Feb-2018,Pirate raids,188
+Croydon,Crd,01-Mar-2018,Pirate raids,19
+Croydon,Crd,01-Apr-2018,Pirate raids,151
+Croydon,Crd,01-May-2018,Pirate raids,230
+Croydon,Crd,01-Jun-2018,Pirate raids,70
+Croydon,Crd,01-Jul-2018,Pirate raids,76
+Croydon,Crd,01-Aug-2018,Pirate raids,170
+Croydon,Crd,01-Sep-2018,Pirate raids,168
+Croydon,Crd,01-Oct-2018,Pirate raids,83
+Croydon,Crd,01-Nov-2018,Pirate raids,123
+Croydon,Crd,01-Dec-2018,Pirate raids,61
+Ealing,Elg,01-Apr-2018,Pirate raids,46
+Ealing,Elg,01-May-2018,Pirate raids,96
+Ealing,Elg,01-Jun-2018,Pirate raids,10
+Ealing,Elg,01-Jul-2018,Pirate raids,106
+Ealing,Elg,01-Aug-2018,Pirate raids,8
+Ealing,Elg,01-Sep-2018,Pirate raids,147
+Ealing,Elg,01-Oct-2018,Pirate raids,221
+Ealing,Elg,01-Nov-2018,Pirate raids,67
+Ealing,Elg,01-Dec-2018,Pirate raids,28
+Enfield,Enf,01-Jan-2018,Pirate raids,82
+Enfield,Enf,01-Feb-2018,Pirate raids,139
+Enfield,Enf,01-Mar-2018,Pirate raids,85
+Enfield,Enf,01-Apr-2018,Pirate raids,31
+Enfield,Enf,01-May-2018,Pirate raids,184
+Enfield,Enf,01-Jun-2018,Pirate raids,49
+Enfield,Enf,01-Jul-2018,Pirate raids,12
+Enfield,Enf,01-Aug-2018,Pirate raids,54
+Enfield,Enf,01-Sep-2018,Pirate raids,72
+Enfield,Enf,01-Oct-2018,Pirate raids,59
+Enfield,Enf,01-Nov-2018,Pirate raids,81
+Enfield,Enf,01-Dec-2018,Pirate raids,27
+Greenwich,Grn,01-Jan-2018,Pirate raids,36
+Greenwich,Grn,01-Feb-2018,Pirate raids,22
+Greenwich,Grn,01-Mar-2018,Pirate raids,59
+Greenwich,Grn,01-Apr-2018,Pirate raids,0
+Greenwich,Grn,01-May-2018,Pirate raids,177
+Greenwich,Grn,01-Jun-2018,Pirate raids,18
+Greenwich,Grn,01-Jul-2018,Pirate raids,105
+Greenwich,Grn,01-Aug-2018,Pirate raids,96
+Greenwich,Grn,01-Sep-2018,Pirate raids,146
+Greenwich,Grn,01-Oct-2018,Pirate raids,77
+Greenwich,Grn,01-Nov-2018,Pirate raids,115
+Greenwich,Grn,01-Dec-2018,Pirate raids,1
+Hackney,Hck,01-Jan-2018,Pirate raids,40
+Hackney,Hck,01-Feb-2018,Pirate raids,39
+Hackney,Hck,01-Mar-2018,Pirate raids,42
+Hackney,Hck,01-Apr-2018,Pirate raids,222
+Hackney,Hck,01-May-2018,Pirate raids,47
+Hackney,Hck,01-Jun-2018,Pirate raids,358
+Hackney,Hck,01-Jul-2018,Pirate raids,144
+Hackney,Hck,01-Aug-2018,Pirate raids,378
+Hackney,Hck,01-Sep-2018,Pirate raids,235
+Hackney,Hck,01-Oct-2018,Pirate raids,394
+Hackney,Hck,01-Nov-2018,Pirate raids,176
+Hackney,Hck,01-Dec-2018,Pirate raids,47
+Hammersmith & Fulham,Hms,01-Jan-2018,Pirate raids,122
+Hammersmith & Fulham,Hms,01-Feb-2018,Pirate raids,203
+Hammersmith & Fulham,Hms,01-Mar-2018,Pirate raids,179
+Hammersmith & Fulham,Hms,01-Apr-2018,Pirate raids,105
+Hammersmith & Fulham,Hms,01-May-2018,Pirate raids,224
+Hammersmith & Fulham,Hms,01-Jun-2018,Pirate raids,147
+Hammersmith & Fulham,Hms,01-Jul-2018,Pirate raids,143
+Hammersmith & Fulham,Hms,01-Aug-2018,Pirate raids,264
+Hammersmith & Fulham,Hms,01-Sep-2018,Pirate raids,138
+Hammersmith & Fulham,Hms,01-Oct-2018,Pirate raids,41
+Hammersmith & Fulham,Hms,01-Nov-2018,Pirate raids,139
+Hammersmith & Fulham,Hms,01-Dec-2018,Pirate raids,102
+Haringey,Hgy,01-Jan-2018,Pirate raids,192
+Haringey,Hgy,01-Feb-2018,Pirate raids,152
+Haringey,Hgy,01-Mar-2018,Pirate raids,116
+Haringey,Hgy,01-Apr-2018,Pirate raids,112
+Haringey,Hgy,01-May-2018,Pirate raids,242
+Haringey,Hgy,01-Jun-2018,Pirate raids,166
+Haringey,Hgy,01-Jul-2018,Pirate raids,37
+Haringey,Hgy,01-Aug-2018,Pirate raids,72
+Haringey,Hgy,01-Sep-2018,Pirate raids,27
+Haringey,Hgy,01-Oct-2018,Pirate raids,64
+Haringey,Hgy,01-Nov-2018,Pirate raids,89
+Haringey,Hgy,01-Dec-2018,Pirate raids,41
+Harrow,Hrw,01-Jan-2018,Pirate raids,43
+Harrow,Hrw,01-Feb-2018,Pirate raids,2
+Harrow,Hrw,01-Mar-2018,Pirate raids,56
+Harrow,Hrw,01-Apr-2018,Pirate raids,71
+Harrow,Hrw,01-May-2018,Pirate raids,4
+Harrow,Hrw,01-Jun-2018,Pirate raids,60
+Harrow,Hrw,01-Jul-2018,Pirate raids,82
+Harrow,Hrw,01-Aug-2018,Pirate raids,65
+Harrow,Hrw,01-Sep-2018,Pirate raids,85
+Harrow,Hrw,01-Oct-2018,Pirate raids,76
+Harrow,Hrw,01-Nov-2018,Pirate raids,1
+Harrow,Hrw,01-Dec-2018,Pirate raids,42
+Havering,Hvg,01-Jan-2018,Pirate raids,125
+Havering,Hvg,01-Feb-2018,Pirate raids,53
+Havering,Hvg,01-Mar-2018,Pirate raids,80
+Havering,Hvg,01-Apr-2018,Pirate raids,23
+Havering,Hvg,01-May-2018,Pirate raids,5
+Havering,Hvg,01-Jun-2018,Pirate raids,93
+Havering,Hvg,01-Jul-2018,Pirate raids,88
+Havering,Hvg,01-Aug-2018,Pirate raids,47
+Havering,Hvg,01-Sep-2018,Pirate raids,38
+Havering,Hvg,01-Oct-2018,Pirate raids,1
+Havering,Hvg,01-Nov-2018,Pirate raids,73
+Havering,Hvg,01-Dec-2018,Pirate raids,42
+Hendon,Hdn,01-Jan-2018,Pirate raids,15
+Hendon,Hdn,01-Feb-2018,Pirate raids,15
+Hendon,Hdn,01-Mar-2018,Pirate raids,9
+Hendon,Hdn,01-Apr-2018,Pirate raids,8
+Hendon,Hdn,01-May-2018,Pirate raids,10
+Hendon,Hdn,01-Jun-2018,Pirate raids,17
+Hendon,Hdn,01-Jul-2018,Pirate raids,9
+Hendon,Hdn,01-Aug-2018,Pirate raids,8
+Hendon,Hdn,01-Sep-2018,Pirate raids,11
+Hendon,Hdn,01-Oct-2018,Pirate raids,5
+Hendon,Hdn,01-Nov-2018,Pirate raids,6
+Hendon,Hdn,01-Dec-2018,Pirate raids,12
+Hounslow,Hns,01-Jan-2018,Pirate raids,93
+Hounslow,Hns,01-Feb-2018,Pirate raids,34
+Hounslow,Hns,01-Mar-2018,Pirate raids,3
+Hounslow,Hns,01-Apr-2018,Pirate raids,32
+Hounslow,Hns,01-May-2018,Pirate raids,150
+Hounslow,Hns,01-Jun-2018,Pirate raids,50
+Hounslow,Hns,01-Jul-2018,Pirate raids,37
+Hounslow,Hns,01-Aug-2018,Pirate raids,130
+Hounslow,Hns,01-Sep-2018,Pirate raids,179
+Hounslow,Hns,01-Oct-2018,Pirate raids,2
+Hounslow,Hns,01-Nov-2018,Pirate raids,59
+Hounslow,Hns,01-Dec-2018,Pirate raids,17
+Islington,Isl,01-Jan-2018,Pirate raids,173
+Islington,Isl,01-Feb-2018,Pirate raids,24
+Islington,Isl,01-Mar-2018,Pirate raids,39
+Islington,Isl,01-Apr-2018,Pirate raids,17
+Islington,Isl,01-May-2018,Pirate raids,212
+Islington,Isl,01-Jun-2018,Pirate raids,138
+Islington,Isl,01-Jul-2018,Pirate raids,17
+Islington,Isl,01-Aug-2018,Pirate raids,99
+Islington,Isl,01-Sep-2018,Pirate raids,76
+Islington,Isl,01-Oct-2018,Pirate raids,181
+Islington,Isl,01-Nov-2018,Pirate raids,72
+Islington,Isl,01-Dec-2018,Pirate raids,46
+Kensington & Chelsea,Kns,01-Jan-2018,Pirate raids,242
+Kensington & Chelsea,Kns,01-Feb-2018,Pirate raids,114
+Kensington & Chelsea,Kns,01-Mar-2018,Pirate raids,245
+Kensington & Chelsea,Kns,01-Apr-2018,Pirate raids,176
+Kensington & Chelsea,Kns,01-May-2018,Pirate raids,147
+Kensington & Chelsea,Kns,01-Jun-2018,Pirate raids,275
+Kensington & Chelsea,Kns,01-Jul-2018,Pirate raids,75
+Kensington & Chelsea,Kns,01-Aug-2018,Pirate raids,133
+Kensington & Chelsea,Kns,01-Sep-2018,Pirate raids,107
+Kensington & Chelsea,Kns,01-Oct-2018,Pirate raids,83
+Kensington & Chelsea,Kns,01-Nov-2018,Pirate raids,136
+Kensington & Chelsea,Kns,01-Dec-2018,Pirate raids,73
+Kingston upon Thames,Kng,01-Jan-2018,Pirate raids,52
+Kingston upon Thames,Kng,01-Feb-2018,Pirate raids,129
+Kingston upon Thames,Kng,01-Mar-2018,Pirate raids,3
+Kingston upon Thames,Kng,01-Apr-2018,Pirate raids,12
+Kingston upon Thames,Kng,01-May-2018,Pirate raids,5
+Kingston upon Thames,Kng,01-Jun-2018,Pirate raids,22
+Kingston upon Thames,Kng,01-Jul-2018,Pirate raids,83
+Kingston upon Thames,Kng,01-Aug-2018,Pirate raids,83
+Kingston upon Thames,Kng,01-Sep-2018,Pirate raids,127
+Kingston upon Thames,Kng,01-Oct-2018,Pirate raids,142
+Kingston upon Thames,Kng,01-Nov-2018,Pirate raids,106
+Kingston upon Thames,Kng,01-Dec-2018,Pirate raids,95
+Lambeth,Lam,01-Jan-2018,Pirate raids,10
+Lambeth,Lam,01-Feb-2018,Pirate raids,28
+Lambeth,Lam,01-Mar-2018,Pirate raids,17
+Lambeth,Lam,01-Apr-2018,Pirate raids,9
+Lambeth,Lam,01-May-2018,Pirate raids,64
+Lambeth,Lam,01-Jun-2018,Pirate raids,77
+Lambeth,Lam,01-Jul-2018,Pirate raids,41
+Lambeth,Lam,01-Aug-2018,Pirate raids,47
+Lambeth,Lam,01-Sep-2018,Pirate raids,99
+Lambeth,Lam,01-Oct-2018,Pirate raids,106
+Lambeth,Lam,01-Nov-2018,Pirate raids,27
+Lambeth,Lam,01-Dec-2018,Pirate raids,21
+Lewisham,Lsh,01-Jan-2018,Pirate raids,115
+Lewisham,Lsh,01-Feb-2018,Pirate raids,53
+Lewisham,Lsh,01-Mar-2018,Pirate raids,165
+Lewisham,Lsh,01-Apr-2018,Pirate raids,88
+Lewisham,Lsh,01-May-2018,Pirate raids,188
+Lewisham,Lsh,01-Jun-2018,Pirate raids,142
+Lewisham,Lsh,01-Jul-2018,Pirate raids,331
+Lewisham,Lsh,01-Aug-2018,Pirate raids,162
+Lewisham,Lsh,01-Sep-2018,Pirate raids,418
+Lewisham,Lsh,01-Oct-2018,Pirate raids,384
+Lewisham,Lsh,01-Nov-2018,Pirate raids,124
+Lewisham,Lsh,01-Dec-2018,Pirate raids,24
+Merton,Mrt,01-Jan-2018,Pirate raids,136
+Merton,Mrt,01-Feb-2018,Pirate raids,51
+Merton,Mrt,01-Mar-2018,Pirate raids,108
+Merton,Mrt,01-Apr-2018,Pirate raids,108
+Merton,Mrt,01-May-2018,Pirate raids,40
+Merton,Mrt,01-Jun-2018,Pirate raids,70
+Merton,Mrt,01-Jul-2018,Pirate raids,141
+Merton,Mrt,01-Aug-2018,Pirate raids,76
+Merton,Mrt,01-Sep-2018,Pirate raids,79
+Merton,Mrt,01-Oct-2018,Pirate raids,145
+Merton,Mrt,01-Nov-2018,Pirate raids,38
+Merton,Mrt,01-Dec-2018,Pirate raids,81
+Newham,Nwm,01-Jan-2018,Pirate raids,65
+Newham,Nwm,01-Feb-2018,Pirate raids,134
+Newham,Nwm,01-Mar-2018,Pirate raids,49
+Newham,Nwm,01-Apr-2018,Pirate raids,108
+Newham,Nwm,01-May-2018,Pirate raids,60
+Newham,Nwm,01-Jun-2018,Pirate raids,17
+Newham,Nwm,01-Jul-2018,Pirate raids,0
+Newham,Nwm,01-Aug-2018,Pirate raids,47
+Newham,Nwm,01-Sep-2018,Pirate raids,137
+Newham,Nwm,01-Oct-2018,Pirate raids,20
+Newham,Nwm,01-Nov-2018,Pirate raids,12
+Newham,Nwm,01-Dec-2018,Pirate raids,65
+Redbridge,Rdb,01-Jan-2018,Pirate raids,9
+Redbridge,Rdb,01-Feb-2018,Pirate raids,200
+Redbridge,Rdb,01-Mar-2018,Pirate raids,132
+Redbridge,Rdb,01-Apr-2018,Pirate raids,186
+Redbridge,Rdb,01-May-2018,Pirate raids,100
+Redbridge,Rdb,01-Jun-2018,Pirate raids,51
+Redbridge,Rdb,01-Jul-2018,Pirate raids,25
+Redbridge,Rdb,01-Aug-2018,Pirate raids,124
+Redbridge,Rdb,01-Sep-2018,Pirate raids,231
+Redbridge,Rdb,01-Oct-2018,Pirate raids,191
+Redbridge,Rdb,01-Nov-2018,Pirate raids,11
+Redbridge,Rdb,01-Dec-2018,Pirate raids,111
+Richmond upon Thames,Rch,01-Jan-2018,Pirate raids,100
+Richmond upon Thames,Rch,01-Feb-2018,Pirate raids,136
+Richmond upon Thames,Rch,01-Mar-2018,Pirate raids,3
+Richmond upon Thames,Rch,01-Apr-2018,Pirate raids,110
+Richmond upon Thames,Rch,01-May-2018,Pirate raids,40
+Richmond upon Thames,Rch,01-Jun-2018,Pirate raids,65
+Richmond upon Thames,Rch,01-Jul-2018,Pirate raids,31
+Richmond upon Thames,Rch,01-Aug-2018,Pirate raids,127
+Richmond upon Thames,Rch,01-Sep-2018,Pirate raids,46
+Richmond upon Thames,Rch,01-Oct-2018,Pirate raids,114
+Richmond upon Thames,Rch,01-Nov-2018,Pirate raids,66
+Richmond upon Thames,Rch,01-Dec-2018,Pirate raids,21
+Southwark,Swr,01-Jan-2018,Pirate raids,85
+Southwark,Swr,01-Feb-2018,Pirate raids,47
+Southwark,Swr,01-Mar-2018,Pirate raids,80
+Southwark,Swr,01-Apr-2018,Pirate raids,83
+Southwark,Swr,01-May-2018,Pirate raids,63
+Southwark,Swr,01-Jun-2018,Pirate raids,131
+Southwark,Swr,01-Jul-2018,Pirate raids,75
+Southwark,Swr,01-Aug-2018,Pirate raids,65
+Southwark,Swr,01-Sep-2018,Pirate raids,24
+Southwark,Swr,01-Oct-2018,Pirate raids,78
+Southwark,Swr,01-Nov-2018,Pirate raids,21
+Southwark,Swr,01-Dec-2018,Pirate raids,41
+Sutton,Stn,01-Jan-2018,Pirate raids,122
+Sutton,Stn,01-Feb-2018,Pirate raids,91
+Sutton,Stn,01-Mar-2018,Pirate raids,40
+Sutton,Stn,01-Apr-2018,Pirate raids,158
+Sutton,Stn,01-May-2018,Pirate raids,331
+Sutton,Stn,01-Jun-2018,Pirate raids,262
+Sutton,Stn,01-Jul-2018,Pirate raids,57
+Sutton,Stn,01-Aug-2018,Pirate raids,23
+Sutton,Stn,01-Sep-2018,Pirate raids,177
+Sutton,Stn,01-Oct-2018,Pirate raids,194
+Sutton,Stn,01-Nov-2018,Pirate raids,10
+Sutton,Stn,01-Dec-2018,Pirate raids,123
+Tower Hamlets,Tow,01-Jan-2018,Pirate raids,47
+Tower Hamlets,Tow,01-Feb-2018,Pirate raids,45
+Tower Hamlets,Tow,01-Mar-2018,Pirate raids,83
+Tower Hamlets,Tow,01-Apr-2018,Pirate raids,32
+Tower Hamlets,Tow,01-May-2018,Pirate raids,12
+Tower Hamlets,Tow,01-Jun-2018,Pirate raids,14
+Tower Hamlets,Tow,01-Jul-2018,Pirate raids,8
+Tower Hamlets,Tow,01-Aug-2018,Pirate raids,17
+Tower Hamlets,Tow,01-Sep-2018,Pirate raids,32
+Tower Hamlets,Tow,01-Oct-2018,Pirate raids,85
+Tower Hamlets,Tow,01-Nov-2018,Pirate raids,0
+Tower Hamlets,Tow,01-Dec-2018,Pirate raids,37
+Waltham Forest,Wth,01-Jan-2018,Pirate raids,46
+Waltham Forest,Wth,01-Feb-2018,Pirate raids,203
+Waltham Forest,Wth,01-Mar-2018,Pirate raids,9
+Waltham Forest,Wth,01-Apr-2018,Pirate raids,39
+Waltham Forest,Wth,01-May-2018,Pirate raids,121
+Waltham Forest,Wth,01-Jun-2018,Pirate raids,197
+Waltham Forest,Wth,01-Jul-2018,Pirate raids,112
+Waltham Forest,Wth,01-Aug-2018,Pirate raids,29
+Waltham Forest,Wth,01-Sep-2018,Pirate raids,183
+Waltham Forest,Wth,01-Oct-2018,Pirate raids,166
+Waltham Forest,Wth,01-Nov-2018,Pirate raids,282
+Waltham Forest,Wth,01-Dec-2018,Pirate raids,16
+Wandsworth,Wns,01-Jan-2018,Pirate raids,111
+Wandsworth,Wns,01-Feb-2018,Pirate raids,23
+Wandsworth,Wns,01-Mar-2018,Pirate raids,145
+Wandsworth,Wns,01-Apr-2018,Pirate raids,1
+Wandsworth,Wns,01-May-2018,Pirate raids,47
+Wandsworth,Wns,01-Jun-2018,Pirate raids,0
+Wandsworth,Wns,01-Jul-2018,Pirate raids,81
+Wandsworth,Wns,01-Aug-2018,Pirate raids,77
+Wandsworth,Wns,01-Sep-2018,Pirate raids,154
+Wandsworth,Wns,01-Oct-2018,Pirate raids,97
+Wandsworth,Wns,01-Nov-2018,Pirate raids,9
+Wandsworth,Wns,01-Dec-2018,Pirate raids,44
+Westminster,Wst,01-Jan-2018,Pirate raids,133
+Westminster,Wst,01-Feb-2018,Pirate raids,186
+Westminster,Wst,01-Mar-2018,Pirate raids,84
+Westminster,Wst,01-Apr-2018,Pirate raids,179
+Westminster,Wst,01-May-2018,Pirate raids,135
+Westminster,Wst,01-Jun-2018,Pirate raids,287
+Westminster,Wst,01-Jul-2018,Pirate raids,121
+Westminster,Wst,01-Aug-2018,Pirate raids,8
+Westminster,Wst,01-Sep-2018,Pirate raids,193
+Westminster,Wst,01-Oct-2018,Pirate raids,307
+Westminster,Wst,01-Nov-2018,Pirate raids,61
+Westminster,Wst,01-Dec-2018,Pirate raids,168

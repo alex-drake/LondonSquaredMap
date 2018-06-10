@@ -75,17 +75,17 @@ yCoordinate+=gridSize+buffer;
 xCoordinate=buffer;
 }
 
-	// TOOL TIP
-	var tooltip=d3.select("body").append("div")
-					.style("position","absolute")
-					.style("padding","0px")
-					.style("opacity","0")
-					.style("background", "white")
-					.style("border", "2px;")
-					.style("text-align","center")
-					.style("vertical-align","middle")
-					.style("padding","10px")
-					.attr("id", "tooltip");
+// TOOL TIP
+var tooltip=d3.select("body").append("div")
+				.style("position","absolute")
+				.style("padding","0px")
+				.style("opacity","0")
+				.style("background", "white")
+				.style("border", "2px;")
+				.style("text-align","center")
+				.style("vertical-align","middle")
+				.style("padding","10px")
+				.attr("id", "tooltip");
 
 ///////////////////////////////////////////
 /////////LOAD ALL DATA (START)/////////////
@@ -174,7 +174,6 @@ function handleData(error, dataIn) {
 	var measureList = d3.select("#kpiList")
 				.append("select")
 				.attr("id","kpis")
-				//.attr("multiple",true)
 				.attr("size",2)
 				.selectAll("option")
 				.data(d3.map(measures, function(d) { return d.key;}).keys()).enter()
@@ -188,7 +187,7 @@ function handleData(error, dataIn) {
 													return g == kpiSel;
 												});
 
-	changeKPI(dataIn, kpiSel);
+	changeKPI(dataIn, kpiSel); // initialise map and chart
 
 	d3.select("#kpis")
 	.on("change", function() {
@@ -226,8 +225,8 @@ function changeKPI(data, kpiSel){
 																				total: d.values.total}; })
 																				;
 
-	mapSquared(dataFiltered);
-	lineChart(monthlyData);
+	mapSquared(dataFiltered); // create map
+	lineChart(monthlyData); // create line chart
 }
 
 // Mapping Function - user must pass in the data table and the div
@@ -279,6 +278,7 @@ function mapSquared(data){
 			total += parseFloat(data[s].total);
 		}
 
+		// display tooltip when user hovers over borough circle
 		circles
 		.on("mousemove", function(d){
 				tooltip
@@ -317,7 +317,6 @@ function mapSquared(data){
 											.map(function(d) { return {month: d.key,
 																									total: d.values.total}; });
 				lineChart(chartData);
-
 			});
 }
 

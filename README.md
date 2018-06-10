@@ -2,7 +2,7 @@
 
 Getting to grips with graphics in D3 using [London Squared](http://eoinkilbride.com/prototype/londonSquared.html) Map originally designed by Eoin Kilbride, with some modifications here and there.
 
-<img src="https://github.com/alex-drake/LondonSquaredMap/data/pagePreview.png?raw=true" width="500">
+<img src="https://github.com/alex-drake/LondonSquaredMap/blob/master/data/pagePreview.png?raw=true" width="750">
 
 The main change is to modify how the script pulls in the data and this is now done in the first instance to be delievered to functions as required (previously it was imported each time the user made a change). This makes use of the `queue()` function (now included in the main d3.v5.js) and `defer()` to hold the initial page alterations until the data import is complete.  
 
